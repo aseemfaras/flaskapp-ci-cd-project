@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+    <title>Indian States and Districts</title>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Indian States and Districts</h1>
+            <p>Select a state to view its districts and details</p>
+        </header>
+        
+        <main>
+            <div class="state-selection">
+                <label for="state-select">Select a State:</label>
+                <select id="state-select" onchange="fetchDistricts()">
+                    <option value="">--Choose a state--</option>
+                </select>
+            </div>
+            
+            <div id="district-list" class="district-list"></div>
+        </main>
+        
+        <footer>
+            <p>&copy; 2024 Indian States Information</p>
+        </footer>
+    </div>
+    
+    <script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+</html>

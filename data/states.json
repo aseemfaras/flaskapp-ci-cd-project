@@ -1,0 +1,5233 @@
+{
+    "states": [
+        {
+            "state": "Andhra Pradesh",
+            "districts": [
+                {
+                    "name": "Anantapur",
+                    "population": 2853545,
+                    "literacy_rate": 90.24033,
+                    "Cases": 2450,
+                    "Mortality rate": 62.8403
+                },
+                {
+                    "name": "Chittoor",
+                    "population": 900370,
+                    "literacy_rate": 71.20807,
+                    "Cases": 2701,
+                    "Mortality rate": 72.9541
+                },
+                {
+                    "name": "East Godavari",
+                    "population": 2927595,
+                    "literacy_rate": 82.21188,
+                    "Cases": 2194,
+                    "Mortality rate": 72.2178
+                },
+                {
+                    "name": "Guntur",
+                    "population": 1050401,
+                    "literacy_rate": 66.28241,
+                    "Cases": 1824,
+                    "Mortality rate": 63.3534
+                },
+                {
+                    "name": "Krishna",
+                    "population": 848704,
+                    "literacy_rate": 83.6068,
+                    "Cases": 2862,
+                    "Mortality rate": 63.6723
+                },
+                {
+                    "name": "Kurnool",
+                    "population": 87836,
+                    "literacy_rate": 77.00129,
+                    "Cases": 657,
+                    "Mortality rate": 72.6896
+                },
+                {
+                    "name": "Nellore",
+                    "population": 525361,
+                    "literacy_rate": 66.06881,
+                    "Cases": 800,
+                    "Mortality rate": 66.1527
+                },
+                {
+                    "name": "Prakasam",
+                    "population": 1830162,
+                    "literacy_rate": 80.90982,
+                    "Cases": 1017,
+                    "Mortality rate": 62.361
+                },
+                {
+                    "name": "Srikakulam",
+                    "population": 2293796,
+                    "literacy_rate": 72.3477,
+                    "Cases": 2924,
+                    "Mortality rate": 59.7231
+                },
+                {
+                    "name": "Visakhapatnam",
+                    "population": 857355,
+                    "literacy_rate": 82.79299,
+                    "Cases": 1598,
+                    "Mortality rate": 62.6182
+                },
+                {
+                    "name": "Vizianagaram",
+                    "population": 1877116,
+                    "literacy_rate": 89.10456,
+                    "Cases": 1390,
+                    "Mortality rate": 63.0355
+                },
+                {
+                    "name": "West Godavari",
+                    "population": 1853868,
+                    "literacy_rate": 67.5934,
+                    "Cases": 1428,
+                    "Mortality rate": 70.9971
+                },
+                {
+                    "name": "YSR Kadapa",
+                    "population": 913822,
+                    "literacy_rate": 89.80595,
+                    "Cases": 2973,
+                    "Mortality rate": 68.0639
+                }
+            ]
+        },
+        {
+            "state": "Arunachal Pradesh",
+            "districts": [
+                {
+                    "name": "Tawang",
+                    "population": 2958514,
+                    "literacy_rate": 82.34857,
+                    "Cases": 1558,
+                    "Mortality rate": 77.6772
+                },
+                {
+                    "name": "West Kameng",
+                    "population": 322308,
+                    "literacy_rate": 65.68376,
+                    "Cases": 2190,
+                    "Mortality rate": 58.5373
+                },
+                {
+                    "name": "East Kameng",
+                    "population": 815637,
+                    "literacy_rate": 75.13127,
+                    "Cases": 1930,
+                    "Mortality rate": 65.906
+                },
+                {
+                    "name": "Papum Pare",
+                    "population": 2246961,
+                    "literacy_rate": 80.9176,
+                    "Cases": 693,
+                    "Mortality rate": 79.8093
+                },
+                {
+                    "name": "Kurung Kumey",
+                    "population": 340653,
+                    "literacy_rate": 91.69962,
+                    "Cases": 878,
+                    "Mortality rate": 76.3814
+                },
+                {
+                    "name": "Kra Daadi",
+                    "population": 647363,
+                    "literacy_rate": 69.80757,
+                    "Cases": 1895,
+                    "Mortality rate": 68.6297
+                },
+                {
+                    "name": "Lower Subansiri",
+                    "population": 2963116,
+                    "literacy_rate": 85.71049,
+                    "Cases": 2582,
+                    "Mortality rate": 66.2207
+                },
+                {
+                    "name": "Upper Subansiri",
+                    "population": 2056984,
+                    "literacy_rate": 80.34335,
+                    "Cases": 2492,
+                    "Mortality rate": 74.1894
+                },
+                {
+                    "name": "West Siang",
+                    "population": 2722929,
+                    "literacy_rate": 65.56114,
+                    "Cases": 1998,
+                    "Mortality rate": 78.0413
+                },
+                {
+                    "name": "East Siang",
+                    "population": 2989610,
+                    "literacy_rate": 66.68941,
+                    "Cases": 1077,
+                    "Mortality rate": 73.1906
+                },
+                {
+                    "name": "Siang",
+                    "population": 2284171,
+                    "literacy_rate": 77.50914,
+                    "Cases": 2047,
+                    "Mortality rate": 71.0955
+                },
+                {
+                    "name": "Upper Siang",
+                    "population": 621413,
+                    "literacy_rate": 93.09312,
+                    "Cases": 1854,
+                    "Mortality rate": 59.6827
+                },
+                {
+                    "name": "Lower Siang",
+                    "population": 2998317,
+                    "literacy_rate": 67.41861,
+                    "Cases": 780,
+                    "Mortality rate": 59.248
+                },
+                {
+                    "name": "Lower Dibang Valley",
+                    "population": 2983321,
+                    "literacy_rate": 84.68053,
+                    "Cases": 2688,
+                    "Mortality rate": 72.8821
+                },
+                {
+                    "name": "Dibang Valley",
+                    "population": 2716135,
+                    "literacy_rate": 73.54022,
+                    "Cases": 2877,
+                    "Mortality rate": 73.7893
+                },
+                {
+                    "name": "Anjaw",
+                    "population": 2754567,
+                    "literacy_rate": 90.75725,
+                    "Cases": 976,
+                    "Mortality rate": 57.0015
+                },
+                {
+                    "name": "Lohit",
+                    "population": 2096143,
+                    "literacy_rate": 90.50354,
+                    "Cases": 2040,
+                    "Mortality rate": 67.7011
+                },
+                {
+                    "name": "Namsai",
+                    "population": 2773843,
+                    "literacy_rate": 73.37073,
+                    "Cases": 783,
+                    "Mortality rate": 72.5449
+                },
+                {
+                    "name": "Changlang",
+                    "population": 2756030,
+                    "literacy_rate": 89.25658,
+                    "Cases": 616,
+                    "Mortality rate": 71.8433
+                },
+                {
+                    "name": "Tirap",
+                    "population": 339888,
+                    "literacy_rate": 72.10246,
+                    "Cases": 2288,
+                    "Mortality rate": 72.904
+                },
+                {
+                    "name": "Longding",
+                    "population": 2635069,
+                    "literacy_rate": 69.03398,
+                    "Cases": 1199,
+                    "Mortality rate": 67.9418
+                }
+            ]
+        },
+        {
+            "state": "Assam",
+            "districts": [
+                {
+                    "name": "Baksa",
+                    "population": 72342,
+                    "literacy_rate": 69.6935,
+                    "Cases": 2661,
+                    "Mortality rate": 65.3359
+                },
+                {
+                    "name": "Barpeta",
+                    "population": 2208868,
+                    "literacy_rate": 76.56987,
+                    "Cases": 637,
+                    "Mortality rate": 75.0387
+                },
+                {
+                    "name": "Biswanath",
+                    "population": 729056,
+                    "literacy_rate": 87.93053,
+                    "Cases": 1873,
+                    "Mortality rate": 74.3691
+                },
+                {
+                    "name": "Bongaigaon",
+                    "population": 438231,
+                    "literacy_rate": 67.48536,
+                    "Cases": 2697,
+                    "Mortality rate": 60.0638
+                },
+                {
+                    "name": "Cachar",
+                    "population": 2700039,
+                    "literacy_rate": 83.98287,
+                    "Cases": 2295,
+                    "Mortality rate": 69.5584
+                },
+                {
+                    "name": "Charaideo",
+                    "population": 2482019,
+                    "literacy_rate": 92.03234,
+                    "Cases": 1234,
+                    "Mortality rate": 65.4139
+                },
+                {
+                    "name": "Chirang",
+                    "population": 1450668,
+                    "literacy_rate": 75.21129,
+                    "Cases": 2200,
+                    "Mortality rate": 70.124
+                },
+                {
+                    "name": "Darrang",
+                    "population": 1809059,
+                    "literacy_rate": 70.56721,
+                    "Cases": 1908,
+                    "Mortality rate": 70.108
+                },
+                {
+                    "name": "Dhemaji",
+                    "population": 880408,
+                    "literacy_rate": 87.18346,
+                    "Cases": 2505,
+                    "Mortality rate": 71.5506
+                },
+                {
+                    "name": "Dhubri",
+                    "population": 1553082,
+                    "literacy_rate": 67.99035,
+                    "Cases": 1866,
+                    "Mortality rate": 57.5393
+                },
+                {
+                    "name": "Dibrugarh",
+                    "population": 1826069,
+                    "literacy_rate": 85.61442,
+                    "Cases": 1795,
+                    "Mortality rate": 61.3482
+                },
+                {
+                    "name": "Goalpara",
+                    "population": 2452648,
+                    "literacy_rate": 93.39472,
+                    "Cases": 2149,
+                    "Mortality rate": 70.7214
+                },
+                {
+                    "name": "Golaghat",
+                    "population": 2335314,
+                    "literacy_rate": 73.72994,
+                    "Cases": 2356,
+                    "Mortality rate": 63.8773
+                },
+                {
+                    "name": "Hailakandi",
+                    "population": 619201,
+                    "literacy_rate": 78.84231,
+                    "Cases": 2857,
+                    "Mortality rate": 62.6448
+                },
+                {
+                    "name": "Hojai",
+                    "population": 2101083,
+                    "literacy_rate": 73.34327,
+                    "Cases": 2281,
+                    "Mortality rate": 71.334
+                },
+                {
+                    "name": "Jorhat",
+                    "population": 1636801,
+                    "literacy_rate": 87.8547,
+                    "Cases": 1796,
+                    "Mortality rate": 68.3504
+                },
+                {
+                    "name": "Kamrup Metropolitan",
+                    "population": 409626,
+                    "literacy_rate": 84.01412,
+                    "Cases": 2094,
+                    "Mortality rate": 59.9298
+                },
+                {
+                    "name": "Kamrup",
+                    "population": 2983078,
+                    "literacy_rate": 65.42641,
+                    "Cases": 1616,
+                    "Mortality rate": 57.2698
+                },
+                {
+                    "name": "Karbi Anglong",
+                    "population": 2006930,
+                    "literacy_rate": 81.77877,
+                    "Cases": 1847,
+                    "Mortality rate": 68.1044
+                },
+                {
+                    "name": "Karimganj",
+                    "population": 1714804,
+                    "literacy_rate": 91.07732,
+                    "Cases": 1345,
+                    "Mortality rate": 64.7702
+                },
+                {
+                    "name": "Kokrajhar",
+                    "population": 79722,
+                    "literacy_rate": 86.8101,
+                    "Cases": 1521,
+                    "Mortality rate": 65.6186
+                },
+                {
+                    "name": "Lakhimpur",
+                    "population": 2124852,
+                    "literacy_rate": 73.69134,
+                    "Cases": 2282,
+                    "Mortality rate": 69.0353
+                },
+                {
+                    "name": "Majuli",
+                    "population": 539521,
+                    "literacy_rate": 68.16964,
+                    "Cases": 1030,
+                    "Mortality rate": 77.1256
+                },
+                {
+                    "name": "Morigaon",
+                    "population": 470790,
+                    "literacy_rate": 92.37695,
+                    "Cases": 766,
+                    "Mortality rate": 74.1305
+                },
+                {
+                    "name": "Nagaon",
+                    "population": 2229376,
+                    "literacy_rate": 65.3338,
+                    "Cases": 1412,
+                    "Mortality rate": 64.958
+                },
+                {
+                    "name": "Nalbari",
+                    "population": 376872,
+                    "literacy_rate": 72.58356,
+                    "Cases": 1761,
+                    "Mortality rate": 58.677
+                },
+                {
+                    "name": "Dima Hasao",
+                    "population": 1820178,
+                    "literacy_rate": 78.66337,
+                    "Cases": 1307,
+                    "Mortality rate": 78.1718
+                },
+                {
+                    "name": "Sivasagar",
+                    "population": 1394726,
+                    "literacy_rate": 76.3042,
+                    "Cases": 504,
+                    "Mortality rate": 67.4587
+                },
+                {
+                    "name": "Sonitpur",
+                    "population": 596864,
+                    "literacy_rate": 72.84222,
+                    "Cases": 2879,
+                    "Mortality rate": 71.8238
+                },
+                {
+                    "name": "South Salmara-Mankachar",
+                    "population": 2558968,
+                    "literacy_rate": 67.53762,
+                    "Cases": 2492,
+                    "Mortality rate": 59.4673
+                },
+                {
+                    "name": "Tinsukia",
+                    "population": 106737,
+                    "literacy_rate": 92.8564,
+                    "Cases": 1043,
+                    "Mortality rate": 61.6655
+                },
+                {
+                    "name": "Udalguri",
+                    "population": 2788864,
+                    "literacy_rate": 69.47824,
+                    "Cases": 2705,
+                    "Mortality rate": 64.7015
+                },
+                {
+                    "name": "West Karbi Anglong",
+                    "population": 2361790,
+                    "literacy_rate": 85.04646,
+                    "Cases": 2453,
+                    "Mortality rate": 74.1546
+                }
+            ]
+        },
+        {
+            "state": "Bihar",
+            "districts": [
+                {
+                    "name": "Araria",
+                    "population": 2342879,
+                    "literacy_rate": 71.39517,
+                    "Cases": 2665,
+                    "Mortality rate": 73.3434
+                },
+                {
+                    "name": "Arwal",
+                    "population": 1733710,
+                    "literacy_rate": 90.04787,
+                    "Cases": 1246,
+                    "Mortality rate": 59.0763
+                },
+                {
+                    "name": "Aurangabad",
+                    "population": 1302038,
+                    "literacy_rate": 76.45732,
+                    "Cases": 2268,
+                    "Mortality rate": 74.7643
+                },
+                {
+                    "name": "Banka",
+                    "population": 419823,
+                    "literacy_rate": 78.12086,
+                    "Cases": 1350,
+                    "Mortality rate": 59.0123
+                },
+                {
+                    "name": "Begusarai",
+                    "population": 2717431,
+                    "literacy_rate": 93.25905,
+                    "Cases": 2874,
+                    "Mortality rate": 74.0745
+                },
+                {
+                    "name": "Bhagalpur",
+                    "population": 697207,
+                    "literacy_rate": 69.62369,
+                    "Cases": 1008,
+                    "Mortality rate": 75.353
+                },
+                {
+                    "name": "Bhojpur",
+                    "population": 883300,
+                    "literacy_rate": 84.13799,
+                    "Cases": 2799,
+                    "Mortality rate": 79.6904
+                },
+                {
+                    "name": "Buxar",
+                    "population": 1211088,
+                    "literacy_rate": 92.31508,
+                    "Cases": 2579,
+                    "Mortality rate": 75.4793
+                },
+                {
+                    "name": "Darbhanga",
+                    "population": 2231691,
+                    "literacy_rate": 88.87569,
+                    "Cases": 2367,
+                    "Mortality rate": 57.7125
+                },
+                {
+                    "name": "East Champaran (Motihari)",
+                    "population": 2563485,
+                    "literacy_rate": 70.15828,
+                    "Cases": 2106,
+                    "Mortality rate": 60.6618
+                },
+                {
+                    "name": "Gaya",
+                    "population": 1046050,
+                    "literacy_rate": 76.86235,
+                    "Cases": 1722,
+                    "Mortality rate": 62.3147
+                },
+                {
+                    "name": "Gopalganj",
+                    "population": 1562991,
+                    "literacy_rate": 69.9319,
+                    "Cases": 2565,
+                    "Mortality rate": 75.1946
+                },
+                {
+                    "name": "Jamui",
+                    "population": 1160805,
+                    "literacy_rate": 75.67498,
+                    "Cases": 1694,
+                    "Mortality rate": 67.2051
+                },
+                {
+                    "name": "Jehanabad",
+                    "population": 1570552,
+                    "literacy_rate": 89.56575,
+                    "Cases": 1915,
+                    "Mortality rate": 58.437
+                },
+                {
+                    "name": "Kaimur (Bhabua)",
+                    "population": 2624592,
+                    "literacy_rate": 74.22169,
+                    "Cases": 1551,
+                    "Mortality rate": 61.0906
+                },
+                {
+                    "name": "Katihar",
+                    "population": 1158322,
+                    "literacy_rate": 71.72636,
+                    "Cases": 1895,
+                    "Mortality rate": 63.6695
+                },
+                {
+                    "name": "Khagaria",
+                    "population": 594214,
+                    "literacy_rate": 85.435,
+                    "Cases": 954,
+                    "Mortality rate": 78.6103
+                },
+                {
+                    "name": "Kishanganj",
+                    "population": 1387965,
+                    "literacy_rate": 75.5932,
+                    "Cases": 2103,
+                    "Mortality rate": 76.3563
+                },
+                {
+                    "name": "Lakhisarai",
+                    "population": 1013442,
+                    "literacy_rate": 84.09393,
+                    "Cases": 2452,
+                    "Mortality rate": 77.659
+                },
+                {
+                    "name": "Madhepura",
+                    "population": 2774354,
+                    "literacy_rate": 93.31637,
+                    "Cases": 1171,
+                    "Mortality rate": 64.197
+                },
+                {
+                    "name": "Madhubani",
+                    "population": 384528,
+                    "literacy_rate": 78.81609,
+                    "Cases": 2955,
+                    "Mortality rate": 69.3768
+                },
+                {
+                    "name": "Munger (Monghyr)",
+                    "population": 583321,
+                    "literacy_rate": 91.77615,
+                    "Cases": 1719,
+                    "Mortality rate": 62.8326
+                },
+                {
+                    "name": "Muzaffarpur",
+                    "population": 1438226,
+                    "literacy_rate": 88.62516,
+                    "Cases": 1639,
+                    "Mortality rate": 63.8547
+                },
+                {
+                    "name": "Nalanda",
+                    "population": 415436,
+                    "literacy_rate": 84.31261,
+                    "Cases": 2558,
+                    "Mortality rate": 77.9821
+                },
+                {
+                    "name": "Nawada",
+                    "population": 1564410,
+                    "literacy_rate": 87.20349,
+                    "Cases": 673,
+                    "Mortality rate": 57.2981
+                },
+                {
+                    "name": "Patna",
+                    "population": 1548814,
+                    "literacy_rate": 80.12723,
+                    "Cases": 1565,
+                    "Mortality rate": 61.2335
+                },
+                {
+                    "name": "Purnia (Purnea)",
+                    "population": 573945,
+                    "literacy_rate": 68.11237,
+                    "Cases": 885,
+                    "Mortality rate": 79.4409
+                },
+                {
+                    "name": "Rohtas",
+                    "population": 1667734,
+                    "literacy_rate": 67.5321,
+                    "Cases": 2930,
+                    "Mortality rate": 71.5466
+                },
+                {
+                    "name": "Saharsa",
+                    "population": 146663,
+                    "literacy_rate": 92.65139,
+                    "Cases": 2505,
+                    "Mortality rate": 60.7778
+                },
+                {
+                    "name": "Samastipur",
+                    "population": 2013088,
+                    "literacy_rate": 78.08361,
+                    "Cases": 643,
+                    "Mortality rate": 78.1725
+                },
+                {
+                    "name": "Saran",
+                    "population": 2470087,
+                    "literacy_rate": 65.00615,
+                    "Cases": 1616,
+                    "Mortality rate": 62.1348
+                },
+                {
+                    "name": "Sheikhpura",
+                    "population": 838127,
+                    "literacy_rate": 90.38912,
+                    "Cases": 1446,
+                    "Mortality rate": 78.9817
+                },
+                {
+                    "name": "Sheohar",
+                    "population": 2071741,
+                    "literacy_rate": 87.55831,
+                    "Cases": 1033,
+                    "Mortality rate": 65.2964
+                },
+                {
+                    "name": "Sitamarhi",
+                    "population": 1282574,
+                    "literacy_rate": 92.52277,
+                    "Cases": 1854,
+                    "Mortality rate": 71.4667
+                },
+                {
+                    "name": "Siwan",
+                    "population": 1016040,
+                    "literacy_rate": 83.90279,
+                    "Cases": 1644,
+                    "Mortality rate": 72.2749
+                },
+                {
+                    "name": "Supaul",
+                    "population": 2599394,
+                    "literacy_rate": 85.10534,
+                    "Cases": 1373,
+                    "Mortality rate": 60.1483
+                },
+                {
+                    "name": "Vaishali",
+                    "population": 815826,
+                    "literacy_rate": 90.43243,
+                    "Cases": 2290,
+                    "Mortality rate": 68.0489
+                },
+                {
+                    "name": "West Champaran",
+                    "population": 2089602,
+                    "literacy_rate": 80.72874,
+                    "Cases": 2900,
+                    "Mortality rate": 79.7947
+                }
+            ]
+        },
+        {
+            "state": "Chandigarh (UT)",
+            "districts": [
+                {
+                    "name": "Chandigarh",
+                    "population": 127770,
+                    "literacy_rate": 85.05073,
+                    "Cases": 783,
+                    "Mortality rate": 79.0001
+                }
+            ]
+        },
+        {
+            "state": "Chhattisgarh",
+            "districts": [
+                {
+                    "name": "Balod",
+                    "population": 2102821,
+                    "literacy_rate": 78.62236,
+                    "Cases": 1225,
+                    "Mortality rate": 62.15
+                },
+                {
+                    "name": "Baloda Bazar",
+                    "population": 1343743,
+                    "literacy_rate": 86.97192,
+                    "Cases": 2695,
+                    "Mortality rate": 75.5642
+                },
+                {
+                    "name": "Balrampur",
+                    "population": 921407,
+                    "literacy_rate": 78.77234,
+                    "Cases": 1923,
+                    "Mortality rate": 72.3505
+                },
+                {
+                    "name": "Bastar",
+                    "population": 2894402,
+                    "literacy_rate": 72.39444,
+                    "Cases": 1073,
+                    "Mortality rate": 70.4349
+                },
+                {
+                    "name": "Bemetara",
+                    "population": 1623632,
+                    "literacy_rate": 75.73333,
+                    "Cases": 1598,
+                    "Mortality rate": 61.5008
+                },
+                {
+                    "name": "Bijapur",
+                    "population": 2726977,
+                    "literacy_rate": 75.30469,
+                    "Cases": 1906,
+                    "Mortality rate": 60.286
+                },
+                {
+                    "name": "Bilaspur",
+                    "population": 2860534,
+                    "literacy_rate": 78.25698,
+                    "Cases": 550,
+                    "Mortality rate": 76.8971
+                },
+                {
+                    "name": "Dantewada (South Bastar)",
+                    "population": 2261269,
+                    "literacy_rate": 87.50303,
+                    "Cases": 1430,
+                    "Mortality rate": 78.1764
+                },
+                {
+                    "name": "Dhamtari",
+                    "population": 61356,
+                    "literacy_rate": 86.54561,
+                    "Cases": 748,
+                    "Mortality rate": 76.2569
+                },
+                {
+                    "name": "Durg",
+                    "population": 2702751,
+                    "literacy_rate": 76.08136,
+                    "Cases": 2867,
+                    "Mortality rate": 61.0677
+                },
+                {
+                    "name": "Gariyaband",
+                    "population": 1601542,
+                    "literacy_rate": 70.57046,
+                    "Cases": 537,
+                    "Mortality rate": 60.319
+                },
+                {
+                    "name": "Janjgir-Champa",
+                    "population": 2381725,
+                    "literacy_rate": 74.61502,
+                    "Cases": 1004,
+                    "Mortality rate": 60.1979
+                },
+                {
+                    "name": "Jashpur",
+                    "population": 1489986,
+                    "literacy_rate": 85.12577,
+                    "Cases": 2833,
+                    "Mortality rate": 59.8971
+                },
+                {
+                    "name": "Kabirdham (Kawardha)",
+                    "population": 1069100,
+                    "literacy_rate": 87.2443,
+                    "Cases": 553,
+                    "Mortality rate": 61.4572
+                },
+                {
+                    "name": "Kanker (North Bastar)",
+                    "population": 2053008,
+                    "literacy_rate": 79.92364,
+                    "Cases": 1609,
+                    "Mortality rate": 75.6599
+                },
+                {
+                    "name": "Kondagaon",
+                    "population": 206587,
+                    "literacy_rate": 86.1085,
+                    "Cases": 1795,
+                    "Mortality rate": 71.7598
+                },
+                {
+                    "name": "Korba",
+                    "population": 2602202,
+                    "literacy_rate": 92.13687,
+                    "Cases": 1833,
+                    "Mortality rate": 60.8711
+                },
+                {
+                    "name": "Korea (Koriya)",
+                    "population": 958147,
+                    "literacy_rate": 78.66677,
+                    "Cases": 2260,
+                    "Mortality rate": 64.637
+                },
+                {
+                    "name": "Mahasamund",
+                    "population": 339026,
+                    "literacy_rate": 82.06581,
+                    "Cases": 2227,
+                    "Mortality rate": 61.5098
+                },
+                {
+                    "name": "Mungeli",
+                    "population": 752288,
+                    "literacy_rate": 85.56559,
+                    "Cases": 1495,
+                    "Mortality rate": 78.5263
+                },
+                {
+                    "name": "Narayanpur",
+                    "population": 313201,
+                    "literacy_rate": 65.43548,
+                    "Cases": 1378,
+                    "Mortality rate": 64.952
+                },
+                {
+                    "name": "Raigarh",
+                    "population": 2793474,
+                    "literacy_rate": 86.06145,
+                    "Cases": 2174,
+                    "Mortality rate": 63.2042
+                },
+                {
+                    "name": "Raipur",
+                    "population": 1730640,
+                    "literacy_rate": 83.24568,
+                    "Cases": 974,
+                    "Mortality rate": 78.4098
+                },
+                {
+                    "name": "Rajnandgaon",
+                    "population": 2733509,
+                    "literacy_rate": 82.72276,
+                    "Cases": 1556,
+                    "Mortality rate": 61.2544
+                },
+                {
+                    "name": "Sukma",
+                    "population": 2547051,
+                    "literacy_rate": 86.48585,
+                    "Cases": 1323,
+                    "Mortality rate": 62.4526
+                },
+                {
+                    "name": "Surajpur  ",
+                    "population": 2222474,
+                    "literacy_rate": 75.87416,
+                    "Cases": 2135,
+                    "Mortality rate": 58.3625
+                },
+                {
+                    "name": "Surguja",
+                    "population": 1441568,
+                    "literacy_rate": 71.11482,
+                    "Cases": 1230,
+                    "Mortality rate": 72.5121
+                }
+            ]
+        },
+        {
+            "state": "Dadra and Nagar Haveli (UT)",
+            "districts": [
+                {
+                    "name": "Dadra & Nagar Haveli",
+                    "population": 943150,
+                    "literacy_rate": 91.10582,
+                    "Cases": 2984,
+                    "Mortality rate": 66.8244
+                }
+            ]
+        },
+        {
+            "state": "Daman and Diu (UT)",
+            "districts": [
+                {
+                    "name": "Daman",
+                    "population": 1529778,
+                    "literacy_rate": 93.38514,
+                    "Cases": 2319,
+                    "Mortality rate": 57.9228
+                },
+                {
+                    "name": "Diu",
+                    "population": 373701,
+                    "literacy_rate": 91.91805,
+                    "Cases": 1166,
+                    "Mortality rate": 62.905
+                }
+            ]
+        },
+        {
+            "state": "Delhi (NCT)",
+            "districts": [
+                {
+                    "name": "Central Delhi",
+                    "population": 1714492,
+                    "literacy_rate": 69.93828,
+                    "Cases": 1032,
+                    "Mortality rate": 66.7241
+                },
+                {
+                    "name": "East Delhi",
+                    "population": 659650,
+                    "literacy_rate": 82.31636,
+                    "Cases": 2766,
+                    "Mortality rate": 69.5573
+                },
+                {
+                    "name": "New Delhi",
+                    "population": 2640947,
+                    "literacy_rate": 91.14292,
+                    "Cases": 2367,
+                    "Mortality rate": 65.9374
+                },
+                {
+                    "name": "North Delhi",
+                    "population": 1509870,
+                    "literacy_rate": 68.50687,
+                    "Cases": 1657,
+                    "Mortality rate": 70.079
+                },
+                {
+                    "name": "North East  Delhi",
+                    "population": 2297895,
+                    "literacy_rate": 89.16209,
+                    "Cases": 624,
+                    "Mortality rate": 76.3869
+                },
+                {
+                    "name": "North West  Delhi",
+                    "population": 1311996,
+                    "literacy_rate": 90.76,
+                    "Cases": 1759,
+                    "Mortality rate": 70.9282
+                },
+                {
+                    "name": "Shahdara",
+                    "population": 1616072,
+                    "literacy_rate": 80.19395,
+                    "Cases": 650,
+                    "Mortality rate": 79.9897
+                },
+                {
+                    "name": "South Delhi",
+                    "population": 1328821,
+                    "literacy_rate": 90.77675,
+                    "Cases": 2919,
+                    "Mortality rate": 68.9797
+                },
+                {
+                    "name": "South East Delhi",
+                    "population": 2695659,
+                    "literacy_rate": 79.50633,
+                    "Cases": 1244,
+                    "Mortality rate": 58.843
+                },
+                {
+                    "name": "South West  Delhi",
+                    "population": 1622935,
+                    "literacy_rate": 93.33339,
+                    "Cases": 2328,
+                    "Mortality rate": 67.1534
+                },
+                {
+                    "name": "West Delhi",
+                    "population": 2558507,
+                    "literacy_rate": 71.38832,
+                    "Cases": 902,
+                    "Mortality rate": 58.4856
+                }
+            ]
+        },
+        {
+            "state": "Goa",
+            "districts": [
+                {
+                    "name": "North Goa",
+                    "population": 343290,
+                    "literacy_rate": 68.65364,
+                    "Cases": 2265,
+                    "Mortality rate": 72.0737
+                },
+                {
+                    "name": "South Goa",
+                    "population": 737421,
+                    "literacy_rate": 74.05857,
+                    "Cases": 856,
+                    "Mortality rate": 64.0524
+                }
+            ]
+        },
+        {
+            "state": "Gujarat",
+            "districts": [
+                {
+                    "name": "Ahmedabad",
+                    "population": 2004083,
+                    "literacy_rate": 89.84243,
+                    "Cases": 618,
+                    "Mortality rate": 66.0692
+                },
+                {
+                    "name": "Amreli",
+                    "population": 2165247,
+                    "literacy_rate": 66.43886,
+                    "Cases": 2023,
+                    "Mortality rate": 70.0452
+                },
+                {
+                    "name": "Anand",
+                    "population": 404767,
+                    "literacy_rate": 93.34094,
+                    "Cases": 908,
+                    "Mortality rate": 69.4709
+                },
+                {
+                    "name": "Aravalli",
+                    "population": 1749484,
+                    "literacy_rate": 84.01052,
+                    "Cases": 1330,
+                    "Mortality rate": 70.2961
+                },
+                {
+                    "name": "Banaskantha (Palanpur)",
+                    "population": 546415,
+                    "literacy_rate": 85.32065,
+                    "Cases": 1711,
+                    "Mortality rate": 69.0619
+                },
+                {
+                    "name": "Bharuch",
+                    "population": 1367685,
+                    "literacy_rate": 84.41421,
+                    "Cases": 1075,
+                    "Mortality rate": 75.116
+                },
+                {
+                    "name": "Bhavnagar",
+                    "population": 2034226,
+                    "literacy_rate": 66.73295,
+                    "Cases": 1941,
+                    "Mortality rate": 68.373
+                },
+                {
+                    "name": "Botad",
+                    "population": 583107,
+                    "literacy_rate": 81.39717,
+                    "Cases": 617,
+                    "Mortality rate": 65.8141
+                },
+                {
+                    "name": "Chhota Udepur",
+                    "population": 478553,
+                    "literacy_rate": 89.12997,
+                    "Cases": 2195,
+                    "Mortality rate": 62.0276
+                },
+                {
+                    "name": "Dahod",
+                    "population": 2191929,
+                    "literacy_rate": 72.11381,
+                    "Cases": 1065,
+                    "Mortality rate": 59.9526
+                },
+                {
+                    "name": "Dangs (Ahwa)",
+                    "population": 1760358,
+                    "literacy_rate": 65.33098,
+                    "Cases": 1942,
+                    "Mortality rate": 67.1325
+                },
+                {
+                    "name": "Devbhoomi Dwarka",
+                    "population": 2272328,
+                    "literacy_rate": 67.77536,
+                    "Cases": 2691,
+                    "Mortality rate": 59.8218
+                },
+                {
+                    "name": "Gandhinagar",
+                    "population": 1063667,
+                    "literacy_rate": 68.79355,
+                    "Cases": 1644,
+                    "Mortality rate": 60.7554
+                },
+                {
+                    "name": "Gir Somnath",
+                    "population": 2330876,
+                    "literacy_rate": 76.21588,
+                    "Cases": 2659,
+                    "Mortality rate": 79.0894
+                },
+                {
+                    "name": "Jamnagar",
+                    "population": 1810846,
+                    "literacy_rate": 75.98706,
+                    "Cases": 956,
+                    "Mortality rate": 68.3869
+                },
+                {
+                    "name": "Junagadh",
+                    "population": 1165418,
+                    "literacy_rate": 78.97954,
+                    "Cases": 1738,
+                    "Mortality rate": 63.2043
+                },
+                {
+                    "name": "Kachchh",
+                    "population": 1630364,
+                    "literacy_rate": 76.35932,
+                    "Cases": 919,
+                    "Mortality rate": 75.4635
+                },
+                {
+                    "name": "Kheda (Nadiad)",
+                    "population": 2168110,
+                    "literacy_rate": 85.08454,
+                    "Cases": 1209,
+                    "Mortality rate": 68.7901
+                },
+                {
+                    "name": "Mahisagar",
+                    "population": 1795655,
+                    "literacy_rate": 67.77198,
+                    "Cases": 2756,
+                    "Mortality rate": 61.5738
+                },
+                {
+                    "name": "Mehsana",
+                    "population": 1516581,
+                    "literacy_rate": 90.49472,
+                    "Cases": 2079,
+                    "Mortality rate": 58.8303
+                },
+                {
+                    "name": "Morbi",
+                    "population": 900565,
+                    "literacy_rate": 71.67143,
+                    "Cases": 999,
+                    "Mortality rate": 60.0539
+                },
+                {
+                    "name": "Narmada (Rajpipla)",
+                    "population": 573267,
+                    "literacy_rate": 80.55496,
+                    "Cases": 862,
+                    "Mortality rate": 73.0834
+                },
+                {
+                    "name": "Navsari",
+                    "population": 2117614,
+                    "literacy_rate": 85.13993,
+                    "Cases": 2398,
+                    "Mortality rate": 59.0111
+                },
+                {
+                    "name": "Panchmahal (Godhra)",
+                    "population": 2291420,
+                    "literacy_rate": 89.20711,
+                    "Cases": 923,
+                    "Mortality rate": 72.7901
+                },
+                {
+                    "name": "Patan",
+                    "population": 1606231,
+                    "literacy_rate": 83.39605,
+                    "Cases": 1868,
+                    "Mortality rate": 60.8627
+                },
+                {
+                    "name": "Porbandar",
+                    "population": 1820084,
+                    "literacy_rate": 86.63841,
+                    "Cases": 1797,
+                    "Mortality rate": 58.4329
+                },
+                {
+                    "name": "Rajkot",
+                    "population": 443615,
+                    "literacy_rate": 83.92477,
+                    "Cases": 1020,
+                    "Mortality rate": 63.4129
+                },
+                {
+                    "name": "Sabarkantha (Himmatnagar)",
+                    "population": 685213,
+                    "literacy_rate": 78.74646,
+                    "Cases": 1351,
+                    "Mortality rate": 69.0195
+                },
+                {
+                    "name": "Surat",
+                    "population": 629904,
+                    "literacy_rate": 69.0028,
+                    "Cases": 1128,
+                    "Mortality rate": 70.3393
+                },
+                {
+                    "name": "Surendranagar",
+                    "population": 1991385,
+                    "literacy_rate": 78.00283,
+                    "Cases": 1684,
+                    "Mortality rate": 60.3124
+                },
+                {
+                    "name": "Tapi (Vyara)",
+                    "population": 1245204,
+                    "literacy_rate": 77.4445,
+                    "Cases": 803,
+                    "Mortality rate": 64.9911
+                },
+                {
+                    "name": "Vadodara",
+                    "population": 1788627,
+                    "literacy_rate": 66.27949,
+                    "Cases": 2426,
+                    "Mortality rate": 58.6124
+                },
+                {
+                    "name": "Valsad",
+                    "population": 2422929,
+                    "literacy_rate": 68.53265,
+                    "Cases": 1635,
+                    "Mortality rate": 69.4649
+                }
+            ]
+        },
+        {
+            "state": "Haryana",
+            "districts": [
+                {
+                    "name": "Ambala",
+                    "population": 2586904,
+                    "literacy_rate": 86.39785,
+                    "Cases": 2238,
+                    "Mortality rate": 57.2067
+                },
+                {
+                    "name": "Bhiwani",
+                    "population": 1297934,
+                    "literacy_rate": 80.4386,
+                    "Cases": 1114,
+                    "Mortality rate": 67.6279
+                },
+                {
+                    "name": "Charkhi Dadri",
+                    "population": 2656214,
+                    "literacy_rate": 85.98577,
+                    "Cases": 1448,
+                    "Mortality rate": 59.0465
+                },
+                {
+                    "name": "Faridabad",
+                    "population": 1617589,
+                    "literacy_rate": 81.20035,
+                    "Cases": 2005,
+                    "Mortality rate": 71.488
+                },
+                {
+                    "name": "Fatehabad",
+                    "population": 1913775,
+                    "literacy_rate": 75.51991,
+                    "Cases": 700,
+                    "Mortality rate": 63.712
+                },
+                {
+                    "name": "Gurgaon",
+                    "population": 2074237,
+                    "literacy_rate": 66.21918,
+                    "Cases": 1707,
+                    "Mortality rate": 78.35
+                },
+                {
+                    "name": "Hisar",
+                    "population": 2419971,
+                    "literacy_rate": 86.51451,
+                    "Cases": 1127,
+                    "Mortality rate": 58.2959
+                },
+                {
+                    "name": "Jhajjar",
+                    "population": 991094,
+                    "literacy_rate": 70.2261,
+                    "Cases": 2072,
+                    "Mortality rate": 66.1447
+                },
+                {
+                    "name": "Jind",
+                    "population": 899142,
+                    "literacy_rate": 79.43362,
+                    "Cases": 1606,
+                    "Mortality rate": 72.149
+                },
+                {
+                    "name": "Kaithal",
+                    "population": 1123459,
+                    "literacy_rate": 87.78701,
+                    "Cases": 1730,
+                    "Mortality rate": 79.7312
+                },
+                {
+                    "name": "Karnal",
+                    "population": 1631381,
+                    "literacy_rate": 88.93051,
+                    "Cases": 859,
+                    "Mortality rate": 65.931
+                },
+                {
+                    "name": "Kurukshetra",
+                    "population": 2643745,
+                    "literacy_rate": 77.67499,
+                    "Cases": 1587,
+                    "Mortality rate": 77.0961
+                },
+                {
+                    "name": "Mahendragarh",
+                    "population": 989497,
+                    "literacy_rate": 92.37963,
+                    "Cases": 2026,
+                    "Mortality rate": 72.874
+                },
+                {
+                    "name": "Mewat",
+                    "population": 123418,
+                    "literacy_rate": 79.51723,
+                    "Cases": 2500,
+                    "Mortality rate": 57.3825
+                },
+                {
+                    "name": "Palwal",
+                    "population": 2278158,
+                    "literacy_rate": 87.24432,
+                    "Cases": 1354,
+                    "Mortality rate": 77.2598
+                },
+                {
+                    "name": "Panchkula",
+                    "population": 1935561,
+                    "literacy_rate": 80.99956,
+                    "Cases": 2740,
+                    "Mortality rate": 77.7438
+                },
+                {
+                    "name": "Panipat",
+                    "population": 1484346,
+                    "literacy_rate": 78.91588,
+                    "Cases": 787,
+                    "Mortality rate": 62.4102
+                },
+                {
+                    "name": "Rewari",
+                    "population": 2835998,
+                    "literacy_rate": 70.14635,
+                    "Cases": 1289,
+                    "Mortality rate": 74.0095
+                },
+                {
+                    "name": "Rohtak",
+                    "population": 88057,
+                    "literacy_rate": 87.16317,
+                    "Cases": 738,
+                    "Mortality rate": 67.7071
+                },
+                {
+                    "name": "Sirsa",
+                    "population": 1907065,
+                    "literacy_rate": 77.82374,
+                    "Cases": 1540,
+                    "Mortality rate": 61.8351
+                },
+                {
+                    "name": "Sonipat",
+                    "population": 1883861,
+                    "literacy_rate": 67.03009,
+                    "Cases": 2693,
+                    "Mortality rate": 78.7189
+                },
+                {
+                    "name": "Yamunanagar",
+                    "population": 2203348,
+                    "literacy_rate": 89.01784,
+                    "Cases": 2470,
+                    "Mortality rate": 70.9197
+                }
+            ]
+        },
+        {
+            "state": "Himachal Pradesh",
+            "districts": [
+                {
+                    "name": "Bilaspur",
+                    "population": 2355158,
+                    "literacy_rate": 68.29275,
+                    "Cases": 731,
+                    "Mortality rate": 60.7898
+                },
+                {
+                    "name": "Chamba",
+                    "population": 1877716,
+                    "literacy_rate": 90.09796,
+                    "Cases": 1845,
+                    "Mortality rate": 76.2287
+                },
+                {
+                    "name": "Hamirpur",
+                    "population": 778642,
+                    "literacy_rate": 73.02068,
+                    "Cases": 2075,
+                    "Mortality rate": 69.2623
+                },
+                {
+                    "name": "Kangra",
+                    "population": 1261961,
+                    "literacy_rate": 84.5418,
+                    "Cases": 1013,
+                    "Mortality rate": 68.1993
+                },
+                {
+                    "name": "Kinnaur",
+                    "population": 2274507,
+                    "literacy_rate": 77.32801,
+                    "Cases": 1598,
+                    "Mortality rate": 75.4041
+                },
+                {
+                    "name": "Kullu",
+                    "population": 238456,
+                    "literacy_rate": 83.93554,
+                    "Cases": 1397,
+                    "Mortality rate": 65.2211
+                },
+                {
+                    "name": "Lahaul &amp; Spiti",
+                    "population": 365360,
+                    "literacy_rate": 91.20162,
+                    "Cases": 750,
+                    "Mortality rate": 70.2874
+                },
+                {
+                    "name": "Mandi",
+                    "population": 467065,
+                    "literacy_rate": 80.97178,
+                    "Cases": 1488,
+                    "Mortality rate": 75.9919
+                },
+                {
+                    "name": "Shimla",
+                    "population": 505302,
+                    "literacy_rate": 86.86369,
+                    "Cases": 899,
+                    "Mortality rate": 64.6367
+                },
+                {
+                    "name": "Sirmaur (Sirmour)",
+                    "population": 1420214,
+                    "literacy_rate": 81.42326,
+                    "Cases": 792,
+                    "Mortality rate": 78.9177
+                },
+                {
+                    "name": "Solan",
+                    "population": 428663,
+                    "literacy_rate": 84.92884,
+                    "Cases": 931,
+                    "Mortality rate": 64.7105
+                },
+                {
+                    "name": "Una",
+                    "population": 2543979,
+                    "literacy_rate": 75.44582,
+                    "Cases": 2128,
+                    "Mortality rate": 77.6065
+                }
+            ]
+        },
+        {
+            "state": "Jammu and Kashmir",
+            "districts": [
+                {
+                    "name": "Anantnag",
+                    "population": 368858,
+                    "literacy_rate": 80.35999,
+                    "Cases": 1764,
+                    "Mortality rate": 76.2065
+                },
+                {
+                    "name": "Bandipore",
+                    "population": 177625,
+                    "literacy_rate": 87.19433,
+                    "Cases": 593,
+                    "Mortality rate": 74.7877
+                },
+                {
+                    "name": "Baramulla",
+                    "population": 994012,
+                    "literacy_rate": 92.85246,
+                    "Cases": 1964,
+                    "Mortality rate": 57.8228
+                },
+                {
+                    "name": "Budgam",
+                    "population": 2481082,
+                    "literacy_rate": 78.87665,
+                    "Cases": 1750,
+                    "Mortality rate": 69.8216
+                },
+                {
+                    "name": "Doda",
+                    "population": 2171398,
+                    "literacy_rate": 90.22652,
+                    "Cases": 1810,
+                    "Mortality rate": 75.4033
+                },
+                {
+                    "name": "Ganderbal",
+                    "population": 108215,
+                    "literacy_rate": 77.08341,
+                    "Cases": 1905,
+                    "Mortality rate": 74.4813
+                },
+                {
+                    "name": "Jammu",
+                    "population": 2840044,
+                    "literacy_rate": 89.06041,
+                    "Cases": 1848,
+                    "Mortality rate": 57.9884
+                },
+                {
+                    "name": "Kargil",
+                    "population": 2791756,
+                    "literacy_rate": 78.77329,
+                    "Cases": 1100,
+                    "Mortality rate": 76.3042
+                },
+                {
+                    "name": "Kathua",
+                    "population": 1750453,
+                    "literacy_rate": 67.421,
+                    "Cases": 2525,
+                    "Mortality rate": 70.3037
+                },
+                {
+                    "name": "Kishtwar",
+                    "population": 2037035,
+                    "literacy_rate": 68.95283,
+                    "Cases": 1373,
+                    "Mortality rate": 77.0433
+                },
+                {
+                    "name": "Kulgam",
+                    "population": 2268949,
+                    "literacy_rate": 87.86795,
+                    "Cases": 725,
+                    "Mortality rate": 58.4366
+                },
+                {
+                    "name": "Kupwara",
+                    "population": 534250,
+                    "literacy_rate": 92.24261,
+                    "Cases": 936,
+                    "Mortality rate": 57.3505
+                },
+                {
+                    "name": "Leh",
+                    "population": 261999,
+                    "literacy_rate": 83.09165,
+                    "Cases": 1906,
+                    "Mortality rate": 62.869
+                },
+                {
+                    "name": "Poonch",
+                    "population": 321575,
+                    "literacy_rate": 72.1433,
+                    "Cases": 1640,
+                    "Mortality rate": 64.7598
+                },
+                {
+                    "name": "Pulwama",
+                    "population": 2320613,
+                    "literacy_rate": 85.7104,
+                    "Cases": 1777,
+                    "Mortality rate": 64.7415
+                },
+                {
+                    "name": "Rajouri",
+                    "population": 380801,
+                    "literacy_rate": 79.84685,
+                    "Cases": 3000,
+                    "Mortality rate": 65.6601
+                },
+                {
+                    "name": "Ramban",
+                    "population": 2520906,
+                    "literacy_rate": 93.47048,
+                    "Cases": 2477,
+                    "Mortality rate": 71.175
+                },
+                {
+                    "name": "Reasi",
+                    "population": 1403278,
+                    "literacy_rate": 67.74989,
+                    "Cases": 1076,
+                    "Mortality rate": 57.4033
+                },
+                {
+                    "name": "Samba",
+                    "population": 1255121,
+                    "literacy_rate": 87.156,
+                    "Cases": 1360,
+                    "Mortality rate": 64.2631
+                },
+                {
+                    "name": "Shopian",
+                    "population": 1414600,
+                    "literacy_rate": 73.53506,
+                    "Cases": 2061,
+                    "Mortality rate": 59.8261
+                },
+                {
+                    "name": "Srinagar",
+                    "population": 1853821,
+                    "literacy_rate": 86.34673,
+                    "Cases": 1933,
+                    "Mortality rate": 69.0415
+                },
+                {
+                    "name": "Udhampur",
+                    "population": 1034410,
+                    "literacy_rate": 72.13969,
+                    "Cases": 853,
+                    "Mortality rate": 75.1879
+                }
+            ]
+        },
+        {
+            "state": "Jharkhand",
+            "districts": [
+                {
+                    "name": "Bokaro",
+                    "population": 2914802,
+                    "literacy_rate": 83.50505,
+                    "Cases": 2675,
+                    "Mortality rate": 77.0445
+                },
+                {
+                    "name": "Chatra",
+                    "population": 2215248,
+                    "literacy_rate": 82.0693,
+                    "Cases": 809,
+                    "Mortality rate": 66.5533
+                },
+                {
+                    "name": "Deoghar",
+                    "population": 1015708,
+                    "literacy_rate": 81.32124,
+                    "Cases": 848,
+                    "Mortality rate": 75.0473
+                },
+                {
+                    "name": "Dhanbad",
+                    "population": 184313,
+                    "literacy_rate": 83.10238,
+                    "Cases": 2131,
+                    "Mortality rate": 62.87
+                },
+                {
+                    "name": "Dumka",
+                    "population": 2722452,
+                    "literacy_rate": 67.82777,
+                    "Cases": 2546,
+                    "Mortality rate": 67.4572
+                },
+                {
+                    "name": "East Singhbhum",
+                    "population": 657957,
+                    "literacy_rate": 79.65037,
+                    "Cases": 2682,
+                    "Mortality rate": 77.8802
+                },
+                {
+                    "name": "Garhwa",
+                    "population": 1675094,
+                    "literacy_rate": 78.70401,
+                    "Cases": 2210,
+                    "Mortality rate": 65.6601
+                },
+                {
+                    "name": "Giridih",
+                    "population": 2914974,
+                    "literacy_rate": 81.73694,
+                    "Cases": 1572,
+                    "Mortality rate": 57.9523
+                },
+                {
+                    "name": "Godda",
+                    "population": 921092,
+                    "literacy_rate": 72.06971,
+                    "Cases": 901,
+                    "Mortality rate": 71.6128
+                },
+                {
+                    "name": "Gumla",
+                    "population": 2718042,
+                    "literacy_rate": 76.43343,
+                    "Cases": 1694,
+                    "Mortality rate": 70.7852
+                },
+                {
+                    "name": "Hazaribag",
+                    "population": 932219,
+                    "literacy_rate": 67.27667,
+                    "Cases": 1563,
+                    "Mortality rate": 65.0115
+                },
+                {
+                    "name": "Jamtara",
+                    "population": 482447,
+                    "literacy_rate": 84.39146,
+                    "Cases": 847,
+                    "Mortality rate": 61.903
+                },
+                {
+                    "name": "Khunti",
+                    "population": 1435877,
+                    "literacy_rate": 77.95278,
+                    "Cases": 606,
+                    "Mortality rate": 58.7211
+                },
+                {
+                    "name": "Koderma",
+                    "population": 2844731,
+                    "literacy_rate": 72.64197,
+                    "Cases": 1437,
+                    "Mortality rate": 64.1604
+                },
+                {
+                    "name": "Latehar",
+                    "population": 75001,
+                    "literacy_rate": 78.7482,
+                    "Cases": 2989,
+                    "Mortality rate": 68.1331
+                },
+                {
+                    "name": "Lohardaga",
+                    "population": 1262266,
+                    "literacy_rate": 92.21743,
+                    "Cases": 1568,
+                    "Mortality rate": 58.1669
+                },
+                {
+                    "name": "Pakur",
+                    "population": 350760,
+                    "literacy_rate": 87.09695,
+                    "Cases": 1251,
+                    "Mortality rate": 77.8253
+                },
+                {
+                    "name": "Palamu",
+                    "population": 300179,
+                    "literacy_rate": 79.89542,
+                    "Cases": 1034,
+                    "Mortality rate": 74.7764
+                },
+                {
+                    "name": "Ramgarh",
+                    "population": 901945,
+                    "literacy_rate": 79.95291,
+                    "Cases": 2437,
+                    "Mortality rate": 69.4861
+                },
+                {
+                    "name": "Ranchi",
+                    "population": 1572148,
+                    "literacy_rate": 90.95347,
+                    "Cases": 778,
+                    "Mortality rate": 67.7971
+                },
+                {
+                    "name": "Sahibganj",
+                    "population": 773266,
+                    "literacy_rate": 73.4226,
+                    "Cases": 2208,
+                    "Mortality rate": 61.1198
+                },
+                {
+                    "name": "Seraikela-Kharsawan",
+                    "population": 1922510,
+                    "literacy_rate": 70.13478,
+                    "Cases": 1949,
+                    "Mortality rate": 71.1795
+                },
+                {
+                    "name": "Simdega",
+                    "population": 2635155,
+                    "literacy_rate": 92.46049,
+                    "Cases": 1263,
+                    "Mortality rate": 76.7084
+                },
+                {
+                    "name": "West Singhbhum",
+                    "population": 2738091,
+                    "literacy_rate": 92.18381,
+                    "Cases": 1825,
+                    "Mortality rate": 72.3779
+                }
+            ]
+        },
+        {
+            "state": "Karnataka",
+            "districts": [
+                {
+                    "name": "Bagalkot",
+                    "population": 2506332,
+                    "literacy_rate": 78.22992,
+                    "Cases": 2345,
+                    "Mortality rate": 69.2827
+                },
+                {
+                    "name": "Ballari (Bellary)",
+                    "population": 2626085,
+                    "literacy_rate": 74.25811,
+                    "Cases": 1020,
+                    "Mortality rate": 75.6669
+                },
+                {
+                    "name": "Belagavi (Belgaum)",
+                    "population": 709696,
+                    "literacy_rate": 90.15123,
+                    "Cases": 2419,
+                    "Mortality rate": 60.2397
+                },
+                {
+                    "name": "Bengaluru (Bangalore) Rural",
+                    "population": 2110588,
+                    "literacy_rate": 89.7058,
+                    "Cases": 526,
+                    "Mortality rate": 69.7057
+                },
+                {
+                    "name": "Bengaluru (Bangalore) Urban",
+                    "population": 2909172,
+                    "literacy_rate": 65.26244,
+                    "Cases": 1915,
+                    "Mortality rate": 58.4217
+                },
+                {
+                    "name": "Bidar",
+                    "population": 1134102,
+                    "literacy_rate": 76.85789,
+                    "Cases": 1480,
+                    "Mortality rate": 73.904
+                },
+                {
+                    "name": "Chamarajanagar",
+                    "population": 1700379,
+                    "literacy_rate": 79.75593,
+                    "Cases": 1218,
+                    "Mortality rate": 69.2222
+                },
+                {
+                    "name": "Chikballapur",
+                    "population": 1008933,
+                    "literacy_rate": 83.51679,
+                    "Cases": 2417,
+                    "Mortality rate": 70.7078
+                },
+                {
+                    "name": "Chikkamagaluru (Chikmagalur)",
+                    "population": 1845484,
+                    "literacy_rate": 70.9924,
+                    "Cases": 2916,
+                    "Mortality rate": 66.3543
+                },
+                {
+                    "name": "Chitradurga",
+                    "population": 2607162,
+                    "literacy_rate": 81.15181,
+                    "Cases": 1563,
+                    "Mortality rate": 61.7385
+                },
+                {
+                    "name": "Dakshina Kannada",
+                    "population": 1869948,
+                    "literacy_rate": 91.01578,
+                    "Cases": 1764,
+                    "Mortality rate": 78.1512
+                },
+                {
+                    "name": "Davangere",
+                    "population": 609667,
+                    "literacy_rate": 71.12657,
+                    "Cases": 669,
+                    "Mortality rate": 68.2043
+                },
+                {
+                    "name": "Dharwad",
+                    "population": 1170103,
+                    "literacy_rate": 76.8711,
+                    "Cases": 2467,
+                    "Mortality rate": 78.7218
+                },
+                {
+                    "name": "Gadag",
+                    "population": 2198497,
+                    "literacy_rate": 78.39672,
+                    "Cases": 1675,
+                    "Mortality rate": 59.231
+                },
+                {
+                    "name": "Hassan",
+                    "population": 1339959,
+                    "literacy_rate": 81.85368,
+                    "Cases": 2966,
+                    "Mortality rate": 63.0984
+                },
+                {
+                    "name": "Haveri",
+                    "population": 2668386,
+                    "literacy_rate": 67.16504,
+                    "Cases": 713,
+                    "Mortality rate": 73.305
+                },
+                {
+                    "name": "Kalaburagi (Gulbarga)",
+                    "population": 2004590,
+                    "literacy_rate": 93.4556,
+                    "Cases": 1633,
+                    "Mortality rate": 65.2409
+                },
+                {
+                    "name": "Kodagu",
+                    "population": 1065315,
+                    "literacy_rate": 83.48211,
+                    "Cases": 890,
+                    "Mortality rate": 60.3
+                },
+                {
+                    "name": "Kolar",
+                    "population": 784546,
+                    "literacy_rate": 80.03115,
+                    "Cases": 888,
+                    "Mortality rate": 77.8247
+                },
+                {
+                    "name": "Koppal",
+                    "population": 114503,
+                    "literacy_rate": 66.83381,
+                    "Cases": 1348,
+                    "Mortality rate": 79.1209
+                },
+                {
+                    "name": "Mandya",
+                    "population": 2076254,
+                    "literacy_rate": 92.58297,
+                    "Cases": 507,
+                    "Mortality rate": 68.1514
+                },
+                {
+                    "name": "Mysuru (Mysore)",
+                    "population": 1937957,
+                    "literacy_rate": 67.05217,
+                    "Cases": 1229,
+                    "Mortality rate": 77.3616
+                },
+                {
+                    "name": "Raichur",
+                    "population": 2427555,
+                    "literacy_rate": 73.79473,
+                    "Cases": 1654,
+                    "Mortality rate": 63.492
+                },
+                {
+                    "name": "Ramanagara",
+                    "population": 2728153,
+                    "literacy_rate": 80.78383,
+                    "Cases": 1527,
+                    "Mortality rate": 68.1108
+                },
+                {
+                    "name": "Shivamogga (Shimoga)",
+                    "population": 1957984,
+                    "literacy_rate": 70.63325,
+                    "Cases": 2960,
+                    "Mortality rate": 68.9691
+                },
+                {
+                    "name": "Tumakuru (Tumkur)",
+                    "population": 1295140,
+                    "literacy_rate": 93.24246,
+                    "Cases": 791,
+                    "Mortality rate": 71.7906
+                },
+                {
+                    "name": "Udupi",
+                    "population": 247780,
+                    "literacy_rate": 91.13687,
+                    "Cases": 1859,
+                    "Mortality rate": 57.482
+                },
+                {
+                    "name": "Uttara Kannada (Karwar)",
+                    "population": 2301671,
+                    "literacy_rate": 81.33477,
+                    "Cases": 2793,
+                    "Mortality rate": 78.5579
+                },
+                {
+                    "name": "Vijayapura (Bijapur)",
+                    "population": 1678289,
+                    "literacy_rate": 92.40092,
+                    "Cases": 753,
+                    "Mortality rate": 60.1416
+                },
+                {
+                    "name": "Yadgir",
+                    "population": 89772,
+                    "literacy_rate": 85.43367,
+                    "Cases": 969,
+                    "Mortality rate": 77.1684
+                }
+            ]
+        },
+        {
+            "state": "Kerala",
+            "districts": [
+                {
+                    "name": "Alappuzha",
+                    "population": 1866549,
+                    "literacy_rate": 82.72387,
+                    "Cases": 1997,
+                    "Mortality rate": 69.8039
+                },
+                {
+                    "name": "Ernakulam",
+                    "population": 2566158,
+                    "literacy_rate": 89.68346,
+                    "Cases": 1206,
+                    "Mortality rate": 71.8533
+                },
+                {
+                    "name": "Idukki",
+                    "population": 1823832,
+                    "literacy_rate": 76.85091,
+                    "Cases": 2881,
+                    "Mortality rate": 75.973
+                },
+                {
+                    "name": "Kannur",
+                    "population": 1721586,
+                    "literacy_rate": 83.16641,
+                    "Cases": 2256,
+                    "Mortality rate": 69.834
+                },
+                {
+                    "name": "Kasaragod",
+                    "population": 2501253,
+                    "literacy_rate": 66.21973,
+                    "Cases": 1422,
+                    "Mortality rate": 63.284
+                },
+                {
+                    "name": "Kollam",
+                    "population": 2838354,
+                    "literacy_rate": 90.38127,
+                    "Cases": 2562,
+                    "Mortality rate": 57.5084
+                },
+                {
+                    "name": "Kottayam",
+                    "population": 884083,
+                    "literacy_rate": 82.02208,
+                    "Cases": 742,
+                    "Mortality rate": 74.1789
+                },
+                {
+                    "name": "Kozhikode",
+                    "population": 1879473,
+                    "literacy_rate": 66.14805,
+                    "Cases": 845,
+                    "Mortality rate": 68.4699
+                },
+                {
+                    "name": "Malappuram",
+                    "population": 314215,
+                    "literacy_rate": 83.7641,
+                    "Cases": 757,
+                    "Mortality rate": 58.275
+                },
+                {
+                    "name": "Palakkad",
+                    "population": 1553761,
+                    "literacy_rate": 74.03474,
+                    "Cases": 2641,
+                    "Mortality rate": 66.8351
+                },
+                {
+                    "name": "Pathanamthitta",
+                    "population": 408394,
+                    "literacy_rate": 65.22044,
+                    "Cases": 961,
+                    "Mortality rate": 78.6636
+                },
+                {
+                    "name": "Thiruvananthapuram",
+                    "population": 1525506,
+                    "literacy_rate": 92.38157,
+                    "Cases": 572,
+                    "Mortality rate": 76.486
+                },
+                {
+                    "name": "Thrissur",
+                    "population": 1269696,
+                    "literacy_rate": 84.27905,
+                    "Cases": 1609,
+                    "Mortality rate": 69.0499
+                },
+                {
+                    "name": "Wayanad",
+                    "population": 454559,
+                    "literacy_rate": 89.26854,
+                    "Cases": 1270,
+                    "Mortality rate": 67.2143
+                }
+            ]
+        },
+        {
+            "state": "Lakshadweep (UT)",
+            "districts": [
+                {
+                    "name": "Agatti",
+                    "population": 2447695,
+                    "literacy_rate": 79.89818,
+                    "Cases": 2896,
+                    "Mortality rate": 74.0094
+                },
+                {
+                    "name": "Amini",
+                    "population": 498409,
+                    "literacy_rate": 88.54054,
+                    "Cases": 647,
+                    "Mortality rate": 67.8455
+                },
+                {
+                    "name": "Androth",
+                    "population": 2000640,
+                    "literacy_rate": 67.11708,
+                    "Cases": 1371,
+                    "Mortality rate": 59.2536
+                },
+                {
+                    "name": "Bithra",
+                    "population": 2323516,
+                    "literacy_rate": 67.39007,
+                    "Cases": 1325,
+                    "Mortality rate": 57.1876
+                },
+                {
+                    "name": "Chethlath",
+                    "population": 2754866,
+                    "literacy_rate": 76.9702,
+                    "Cases": 1506,
+                    "Mortality rate": 61.5359
+                },
+                {
+                    "name": "Kavaratti",
+                    "population": 630696,
+                    "literacy_rate": 89.62931,
+                    "Cases": 514,
+                    "Mortality rate": 72.8377
+                },
+                {
+                    "name": "Kadmath",
+                    "population": 1341125,
+                    "literacy_rate": 90.7855,
+                    "Cases": 2662,
+                    "Mortality rate": 65.6251
+                },
+                {
+                    "name": "Kalpeni",
+                    "population": 301586,
+                    "literacy_rate": 93.44818,
+                    "Cases": 2887,
+                    "Mortality rate": 59.6213
+                },
+                {
+                    "name": "Kilthan",
+                    "population": 1456500,
+                    "literacy_rate": 75.0094,
+                    "Cases": 2761,
+                    "Mortality rate": 78.7921
+                },
+                {
+                    "name": "Minicoy",
+                    "population": 1135327,
+                    "literacy_rate": 76.00052,
+                    "Cases": 2462,
+                    "Mortality rate": 77.4739
+                }
+            ]
+        },
+        {
+            "state": "Madhya Pradesh",
+            "districts": [
+                {
+                    "name": "Agar Malwa",
+                    "population": 2753057,
+                    "literacy_rate": 74.273,
+                    "Cases": 1214,
+                    "Mortality rate": 71.7811
+                },
+                {
+                    "name": "Alirajpur",
+                    "population": 2644349,
+                    "literacy_rate": 93.18124,
+                    "Cases": 1268,
+                    "Mortality rate": 69.1381
+                },
+                {
+                    "name": "Anuppur",
+                    "population": 533035,
+                    "literacy_rate": 78.57731,
+                    "Cases": 1259,
+                    "Mortality rate": 58.3054
+                },
+                {
+                    "name": "Ashoknagar",
+                    "population": 246913,
+                    "literacy_rate": 80.51705,
+                    "Cases": 956,
+                    "Mortality rate": 79.6802
+                },
+                {
+                    "name": "Balaghat",
+                    "population": 2026165,
+                    "literacy_rate": 83.10942,
+                    "Cases": 1150,
+                    "Mortality rate": 58.237
+                },
+                {
+                    "name": "Barwani",
+                    "population": 2001751,
+                    "literacy_rate": 81.95698,
+                    "Cases": 2363,
+                    "Mortality rate": 68.7441
+                },
+                {
+                    "name": "Betul",
+                    "population": 1415752,
+                    "literacy_rate": 76.30968,
+                    "Cases": 1425,
+                    "Mortality rate": 76.9974
+                },
+                {
+                    "name": "Bhind",
+                    "population": 2069934,
+                    "literacy_rate": 72.75615,
+                    "Cases": 808,
+                    "Mortality rate": 78.9807
+                },
+                {
+                    "name": "Bhopal",
+                    "population": 947965,
+                    "literacy_rate": 76.01271,
+                    "Cases": 697,
+                    "Mortality rate": 76.5008
+                },
+                {
+                    "name": "Burhanpur",
+                    "population": 1861773,
+                    "literacy_rate": 88.84812,
+                    "Cases": 2923,
+                    "Mortality rate": 57.3848
+                },
+                {
+                    "name": "Chhatarpur",
+                    "population": 2167090,
+                    "literacy_rate": 74.48957,
+                    "Cases": 2683,
+                    "Mortality rate": 79.3963
+                },
+                {
+                    "name": "Chhindwara",
+                    "population": 2067801,
+                    "literacy_rate": 87.56512,
+                    "Cases": 1909,
+                    "Mortality rate": 69.8754
+                },
+                {
+                    "name": "Damoh",
+                    "population": 1102393,
+                    "literacy_rate": 89.42039,
+                    "Cases": 1522,
+                    "Mortality rate": 57.2798
+                },
+                {
+                    "name": "Datia",
+                    "population": 2781960,
+                    "literacy_rate": 90.88504,
+                    "Cases": 2368,
+                    "Mortality rate": 70.2514
+                },
+                {
+                    "name": "Dewas",
+                    "population": 1480491,
+                    "literacy_rate": 84.04288,
+                    "Cases": 1106,
+                    "Mortality rate": 74.3044
+                },
+                {
+                    "name": "Dhar",
+                    "population": 1741135,
+                    "literacy_rate": 68.0746,
+                    "Cases": 1849,
+                    "Mortality rate": 59.6744
+                },
+                {
+                    "name": "Dindori",
+                    "population": 1058772,
+                    "literacy_rate": 83.56348,
+                    "Cases": 2307,
+                    "Mortality rate": 62.7072
+                },
+                {
+                    "name": "Guna",
+                    "population": 644893,
+                    "literacy_rate": 82.75226,
+                    "Cases": 938,
+                    "Mortality rate": 74.9207
+                },
+                {
+                    "name": "Gwalior",
+                    "population": 2888630,
+                    "literacy_rate": 81.58681,
+                    "Cases": 2138,
+                    "Mortality rate": 69.2721
+                },
+                {
+                    "name": "Harda",
+                    "population": 2302661,
+                    "literacy_rate": 84.32781,
+                    "Cases": 2930,
+                    "Mortality rate": 70.4264
+                },
+                {
+                    "name": "Hoshangabad",
+                    "population": 1265978,
+                    "literacy_rate": 90.54751,
+                    "Cases": 1266,
+                    "Mortality rate": 57.5539
+                },
+                {
+                    "name": "Indore",
+                    "population": 1527278,
+                    "literacy_rate": 82.90767,
+                    "Cases": 1735,
+                    "Mortality rate": 75.2887
+                },
+                {
+                    "name": "Jabalpur",
+                    "population": 1707675,
+                    "literacy_rate": 67.49171,
+                    "Cases": 1783,
+                    "Mortality rate": 77.1786
+                },
+                {
+                    "name": "Jhabua",
+                    "population": 2640166,
+                    "literacy_rate": 90.42754,
+                    "Cases": 1408,
+                    "Mortality rate": 70.9275
+                },
+                {
+                    "name": "Katni",
+                    "population": 385336,
+                    "literacy_rate": 86.98051,
+                    "Cases": 2327,
+                    "Mortality rate": 78.7286
+                },
+                {
+                    "name": "Khandwa",
+                    "population": 1958245,
+                    "literacy_rate": 89.69382,
+                    "Cases": 960,
+                    "Mortality rate": 57.9827
+                },
+                {
+                    "name": "Khargone",
+                    "population": 1748641,
+                    "literacy_rate": 86.13978,
+                    "Cases": 673,
+                    "Mortality rate": 77.4752
+                },
+                {
+                    "name": "Mandla",
+                    "population": 724155,
+                    "literacy_rate": 65.6558,
+                    "Cases": 1929,
+                    "Mortality rate": 69.0637
+                },
+                {
+                    "name": "Mandsaur",
+                    "population": 974962,
+                    "literacy_rate": 65.79401,
+                    "Cases": 677,
+                    "Mortality rate": 77.1232
+                },
+                {
+                    "name": "Morena",
+                    "population": 1455689,
+                    "literacy_rate": 89.10535,
+                    "Cases": 1121,
+                    "Mortality rate": 70.9211
+                },
+                {
+                    "name": "Narsinghpur",
+                    "population": 379823,
+                    "literacy_rate": 80.51377,
+                    "Cases": 668,
+                    "Mortality rate": 66.3
+                },
+                {
+                    "name": "Neemuch",
+                    "population": 2510613,
+                    "literacy_rate": 80.34499,
+                    "Cases": 695,
+                    "Mortality rate": 76.1181
+                },
+                {
+                    "name": "Panna",
+                    "population": 663145,
+                    "literacy_rate": 84.32953,
+                    "Cases": 2731,
+                    "Mortality rate": 78.0724
+                },
+                {
+                    "name": "Raisen",
+                    "population": 1585911,
+                    "literacy_rate": 77.92389,
+                    "Cases": 1865,
+                    "Mortality rate": 60.2064
+                },
+                {
+                    "name": "Rajgarh",
+                    "population": 847526,
+                    "literacy_rate": 76.3343,
+                    "Cases": 1148,
+                    "Mortality rate": 59.7507
+                },
+                {
+                    "name": "Ratlam",
+                    "population": 699551,
+                    "literacy_rate": 92.61624,
+                    "Cases": 2840,
+                    "Mortality rate": 73.7493
+                },
+                {
+                    "name": "Rewa",
+                    "population": 1000763,
+                    "literacy_rate": 78.9306,
+                    "Cases": 1043,
+                    "Mortality rate": 63.5179
+                },
+                {
+                    "name": "Sagar",
+                    "population": 2561676,
+                    "literacy_rate": 90.15529,
+                    "Cases": 2518,
+                    "Mortality rate": 66.5388
+                },
+                {
+                    "name": "Satna",
+                    "population": 2880765,
+                    "literacy_rate": 83.96633,
+                    "Cases": 1146,
+                    "Mortality rate": 69.5104
+                },
+                {
+                    "name": "Sehore",
+                    "population": 1716480,
+                    "literacy_rate": 71.62025,
+                    "Cases": 2378,
+                    "Mortality rate": 78.7481
+                },
+                {
+                    "name": "Seoni",
+                    "population": 847797,
+                    "literacy_rate": 89.7231,
+                    "Cases": 2037,
+                    "Mortality rate": 58.4127
+                },
+                {
+                    "name": "Shahdol",
+                    "population": 1333415,
+                    "literacy_rate": 92.86409,
+                    "Cases": 2077,
+                    "Mortality rate": 72.6291
+                },
+                {
+                    "name": "Shajapur",
+                    "population": 1186890,
+                    "literacy_rate": 82.23416,
+                    "Cases": 2306,
+                    "Mortality rate": 77.7125
+                },
+                {
+                    "name": "Sheopur",
+                    "population": 1064267,
+                    "literacy_rate": 85.49757,
+                    "Cases": 1624,
+                    "Mortality rate": 60.5289
+                },
+                {
+                    "name": "Shivpuri",
+                    "population": 2932130,
+                    "literacy_rate": 86.39395,
+                    "Cases": 1377,
+                    "Mortality rate": 74.1716
+                },
+                {
+                    "name": "Sidhi",
+                    "population": 1080772,
+                    "literacy_rate": 65.81177,
+                    "Cases": 2597,
+                    "Mortality rate": 59.6954
+                },
+                {
+                    "name": "Singrauli",
+                    "population": 2745619,
+                    "literacy_rate": 90.82578,
+                    "Cases": 2378,
+                    "Mortality rate": 58.3629
+                },
+                {
+                    "name": "Tikamgarh",
+                    "population": 2297289,
+                    "literacy_rate": 65.55507,
+                    "Cases": 1414,
+                    "Mortality rate": 76.162
+                },
+                {
+                    "name": "Ujjain",
+                    "population": 2558314,
+                    "literacy_rate": 68.11884,
+                    "Cases": 1010,
+                    "Mortality rate": 73.6542
+                },
+                {
+                    "name": "Umaria",
+                    "population": 2739119,
+                    "literacy_rate": 89.96828,
+                    "Cases": 1598,
+                    "Mortality rate": 69.2897
+                },
+                {
+                    "name": "Vidisha",
+                    "population": 666611,
+                    "literacy_rate": 80.58097,
+                    "Cases": 2990,
+                    "Mortality rate": 63.2947
+                }
+            ]
+        },
+        {
+            "state": "Maharashtra",
+            "districts": [
+                {
+                    "name": "Ahmednagar",
+                    "population": 954144,
+                    "literacy_rate": 90.86917,
+                    "Cases": 1574,
+                    "Mortality rate": 61.3169
+                },
+                {
+                    "name": "Akola",
+                    "population": 2567105,
+                    "literacy_rate": 79.41568,
+                    "Cases": 1650,
+                    "Mortality rate": 61.2119
+                },
+                {
+                    "name": "Amravati",
+                    "population": 2763691,
+                    "literacy_rate": 74.11314,
+                    "Cases": 1098,
+                    "Mortality rate": 68.2738
+                },
+                {
+                    "name": "Aurangabad",
+                    "population": 585503,
+                    "literacy_rate": 75.14109,
+                    "Cases": 1570,
+                    "Mortality rate": 67.7325
+                },
+                {
+                    "name": "Beed",
+                    "population": 2734323,
+                    "literacy_rate": 65.84269,
+                    "Cases": 1645,
+                    "Mortality rate": 70.2901
+                },
+                {
+                    "name": "Bhandara",
+                    "population": 1391513,
+                    "literacy_rate": 90.45574,
+                    "Cases": 1278,
+                    "Mortality rate": 66.1483
+                },
+                {
+                    "name": "Buldhana",
+                    "population": 2728482,
+                    "literacy_rate": 65.85425,
+                    "Cases": 2972,
+                    "Mortality rate": 59.3859
+                },
+                {
+                    "name": "Chandrapur",
+                    "population": 2267287,
+                    "literacy_rate": 93.57585,
+                    "Cases": 1084,
+                    "Mortality rate": 76.9369
+                },
+                {
+                    "name": "Dhule",
+                    "population": 317898,
+                    "literacy_rate": 89.39771,
+                    "Cases": 1348,
+                    "Mortality rate": 79.8906
+                },
+                {
+                    "name": "Gadchiroli",
+                    "population": 1252640,
+                    "literacy_rate": 74.72278,
+                    "Cases": 1100,
+                    "Mortality rate": 73.2423
+                },
+                {
+                    "name": "Gondia",
+                    "population": 2142043,
+                    "literacy_rate": 65.47738,
+                    "Cases": 2159,
+                    "Mortality rate": 59.1964
+                },
+                {
+                    "name": "Hingoli",
+                    "population": 2510895,
+                    "literacy_rate": 79.00663,
+                    "Cases": 2137,
+                    "Mortality rate": 77.9582
+                },
+                {
+                    "name": "Jalgaon",
+                    "population": 1221477,
+                    "literacy_rate": 71.28015,
+                    "Cases": 2898,
+                    "Mortality rate": 64.2422
+                },
+                {
+                    "name": "Jalna",
+                    "population": 204368,
+                    "literacy_rate": 88.7682,
+                    "Cases": 2590,
+                    "Mortality rate": 68.0277
+                },
+                {
+                    "name": "Kolhapur",
+                    "population": 685434,
+                    "literacy_rate": 65.55373,
+                    "Cases": 1266,
+                    "Mortality rate": 68.1597
+                },
+                {
+                    "name": "Latur",
+                    "population": 550095,
+                    "literacy_rate": 91.78442,
+                    "Cases": 953,
+                    "Mortality rate": 67.6405
+                },
+                {
+                    "name": "Mumbai City",
+                    "population": 523695,
+                    "literacy_rate": 91.15812,
+                    "Cases": 2499,
+                    "Mortality rate": 77.0959
+                },
+                {
+                    "name": "Mumbai Suburban",
+                    "population": 2248076,
+                    "literacy_rate": 74.4692,
+                    "Cases": 2485,
+                    "Mortality rate": 58.4313
+                },
+                {
+                    "name": "Nagpur",
+                    "population": 488517,
+                    "literacy_rate": 89.97169,
+                    "Cases": 1988,
+                    "Mortality rate": 75.6901
+                },
+                {
+                    "name": "Nanded",
+                    "population": 984008,
+                    "literacy_rate": 69.10845,
+                    "Cases": 818,
+                    "Mortality rate": 70.9178
+                },
+                {
+                    "name": "Nandurbar",
+                    "population": 1698920,
+                    "literacy_rate": 71.37429,
+                    "Cases": 1612,
+                    "Mortality rate": 72.0518
+                },
+                {
+                    "name": "Nashik",
+                    "population": 231521,
+                    "literacy_rate": 80.8706,
+                    "Cases": 2156,
+                    "Mortality rate": 60.7294
+                },
+                {
+                    "name": "Osmanabad",
+                    "population": 1670213,
+                    "literacy_rate": 76.00548,
+                    "Cases": 2494,
+                    "Mortality rate": 69.0473
+                },
+                {
+                    "name": "Palghar",
+                    "population": 2783444,
+                    "literacy_rate": 83.75428,
+                    "Cases": 2231,
+                    "Mortality rate": 71.804
+                },
+                {
+                    "name": "Parbhani",
+                    "population": 2732999,
+                    "literacy_rate": 71.78928,
+                    "Cases": 2302,
+                    "Mortality rate": 70.5772
+                },
+                {
+                    "name": "Pune",
+                    "population": 393036,
+                    "literacy_rate": 80.90554,
+                    "Cases": 1014,
+                    "Mortality rate": 60.1214
+                },
+                {
+                    "name": "Raigad",
+                    "population": 2989474,
+                    "literacy_rate": 89.15219,
+                    "Cases": 689,
+                    "Mortality rate": 65.7744
+                },
+                {
+                    "name": "Ratnagiri",
+                    "population": 834162,
+                    "literacy_rate": 84.71466,
+                    "Cases": 2320,
+                    "Mortality rate": 70.9474
+                },
+                {
+                    "name": "Sangli",
+                    "population": 2383875,
+                    "literacy_rate": 67.55335,
+                    "Cases": 2447,
+                    "Mortality rate": 57.763
+                },
+                {
+                    "name": "Satara",
+                    "population": 2022177,
+                    "literacy_rate": 70.86266,
+                    "Cases": 1787,
+                    "Mortality rate": 66.8958
+                },
+                {
+                    "name": "Sindhudurg",
+                    "population": 179255,
+                    "literacy_rate": 77.10762,
+                    "Cases": 2213,
+                    "Mortality rate": 70.6187
+                },
+                {
+                    "name": "Solapur",
+                    "population": 973507,
+                    "literacy_rate": 76.26138,
+                    "Cases": 2119,
+                    "Mortality rate": 63.5412
+                },
+                {
+                    "name": "Thane",
+                    "population": 1620535,
+                    "literacy_rate": 81.07252,
+                    "Cases": 1412,
+                    "Mortality rate": 64.2582
+                },
+                {
+                    "name": "Wardha",
+                    "population": 1518809,
+                    "literacy_rate": 85.25598,
+                    "Cases": 2612,
+                    "Mortality rate": 62.3658
+                },
+                {
+                    "name": "Washim",
+                    "population": 2175601,
+                    "literacy_rate": 71.98125,
+                    "Cases": 2098,
+                    "Mortality rate": 71.1438
+                },
+                {
+                    "name": "Yavatmal",
+                    "population": 1102079,
+                    "literacy_rate": 92.42243,
+                    "Cases": 623,
+                    "Mortality rate": 66.2663
+                }
+            ]
+        },
+        {
+            "state": "Manipur",
+            "districts": [
+                {
+                    "name": "Bishnupur",
+                    "population": 2451195,
+                    "literacy_rate": 80.02024,
+                    "Cases": 500,
+                    "Mortality rate": 64.3564
+                },
+                {
+                    "name": "Chandel",
+                    "population": 864691,
+                    "literacy_rate": 86.16209,
+                    "Cases": 639,
+                    "Mortality rate": 71.1105
+                },
+                {
+                    "name": "Churachandpur",
+                    "population": 1660800,
+                    "literacy_rate": 72.63884,
+                    "Cases": 677,
+                    "Mortality rate": 61.491
+                },
+                {
+                    "name": "Imphal East",
+                    "population": 2871081,
+                    "literacy_rate": 74.46608,
+                    "Cases": 2679,
+                    "Mortality rate": 75.2904
+                },
+                {
+                    "name": "Imphal West",
+                    "population": 1414679,
+                    "literacy_rate": 89.54345,
+                    "Cases": 2376,
+                    "Mortality rate": 77.7514
+                },
+                {
+                    "name": "Jiribam",
+                    "population": 2592953,
+                    "literacy_rate": 92.81647,
+                    "Cases": 1623,
+                    "Mortality rate": 67.2758
+                },
+                {
+                    "name": "Kakching",
+                    "population": 1096450,
+                    "literacy_rate": 92.23299,
+                    "Cases": 2917,
+                    "Mortality rate": 63.4937
+                },
+                {
+                    "name": "Kamjong",
+                    "population": 1434547,
+                    "literacy_rate": 66.71142,
+                    "Cases": 936,
+                    "Mortality rate": 75.7619
+                },
+                {
+                    "name": "Kangpokpi",
+                    "population": 2102931,
+                    "literacy_rate": 76.1046,
+                    "Cases": 2520,
+                    "Mortality rate": 77.8185
+                },
+                {
+                    "name": "Noney",
+                    "population": 1713273,
+                    "literacy_rate": 67.95699,
+                    "Cases": 1231,
+                    "Mortality rate": 70.1242
+                },
+                {
+                    "name": "Pherzawl",
+                    "population": 1568091,
+                    "literacy_rate": 75.72325,
+                    "Cases": 1629,
+                    "Mortality rate": 59.053
+                },
+                {
+                    "name": "Senapati",
+                    "population": 1466036,
+                    "literacy_rate": 72.20509,
+                    "Cases": 2080,
+                    "Mortality rate": 64.6557
+                },
+                {
+                    "name": "Tamenglong",
+                    "population": 789325,
+                    "literacy_rate": 74.36719,
+                    "Cases": 2334,
+                    "Mortality rate": 59.7284
+                },
+                {
+                    "name": "Tengnoupal",
+                    "population": 1899318,
+                    "literacy_rate": 80.86203,
+                    "Cases": 1936,
+                    "Mortality rate": 58.7143
+                },
+                {
+                    "name": "Thoubal",
+                    "population": 361738,
+                    "literacy_rate": 86.38416,
+                    "Cases": 2804,
+                    "Mortality rate": 72.9446
+                },
+                {
+                    "name": "Ukhrul",
+                    "population": 2867189,
+                    "literacy_rate": 91.62925,
+                    "Cases": 541,
+                    "Mortality rate": 57.0615
+                }
+            ]
+        },
+        {
+            "state": "Meghalaya",
+            "districts": [
+                {
+                    "name": "East Garo Hills",
+                    "population": 797136,
+                    "literacy_rate": 90.93166,
+                    "Cases": 2628,
+                    "Mortality rate": 78.4117
+                },
+                {
+                    "name": "East Jaintia Hills",
+                    "population": 1227122,
+                    "literacy_rate": 88.533,
+                    "Cases": 929,
+                    "Mortality rate": 78.6925
+                },
+                {
+                    "name": "East Khasi Hills",
+                    "population": 1768890,
+                    "literacy_rate": 68.62492,
+                    "Cases": 1724,
+                    "Mortality rate": 60.2093
+                },
+                {
+                    "name": "North Garo Hills",
+                    "population": 945994,
+                    "literacy_rate": 91.53467,
+                    "Cases": 1069,
+                    "Mortality rate": 73.2266
+                },
+                {
+                    "name": "Ri Bhoi",
+                    "population": 815214,
+                    "literacy_rate": 88.49275,
+                    "Cases": 2014,
+                    "Mortality rate": 72.0124
+                },
+                {
+                    "name": "South Garo Hills",
+                    "population": 2121108,
+                    "literacy_rate": 83.80341,
+                    "Cases": 667,
+                    "Mortality rate": 78.324
+                },
+                {
+                    "name": "South West Garo Hills ",
+                    "population": 1501853,
+                    "literacy_rate": 86.60578,
+                    "Cases": 1331,
+                    "Mortality rate": 74.7206
+                },
+                {
+                    "name": "South West Khasi Hills",
+                    "population": 1071589,
+                    "literacy_rate": 89.87624,
+                    "Cases": 1303,
+                    "Mortality rate": 76.2031
+                },
+                {
+                    "name": "West Garo Hills",
+                    "population": 368009,
+                    "literacy_rate": 80.86712,
+                    "Cases": 1152,
+                    "Mortality rate": 73.3346
+                },
+                {
+                    "name": "West Jaintia Hills",
+                    "population": 1604515,
+                    "literacy_rate": 88.55265,
+                    "Cases": 1640,
+                    "Mortality rate": 74.8077
+                },
+                {
+                    "name": "West Khasi Hills",
+                    "population": 1128631,
+                    "literacy_rate": 74.85253,
+                    "Cases": 1640,
+                    "Mortality rate": 67.8463
+                }
+            ]
+        },
+        {
+            "state": "Mizoram",
+            "districts": [
+                {
+                    "name": "Aizawl",
+                    "population": 2043837,
+                    "literacy_rate": 68.24663,
+                    "Cases": 2266,
+                    "Mortality rate": 66.7147
+                },
+                {
+                    "name": "Champhai",
+                    "population": 368595,
+                    "literacy_rate": 68.28508,
+                    "Cases": 2437,
+                    "Mortality rate": 57.974
+                },
+                {
+                    "name": "Kolasib",
+                    "population": 903054,
+                    "literacy_rate": 67.63356,
+                    "Cases": 872,
+                    "Mortality rate": 72.8643
+                },
+                {
+                    "name": "Lawngtlai",
+                    "population": 154175,
+                    "literacy_rate": 69.34523,
+                    "Cases": 2132,
+                    "Mortality rate": 57.0331
+                },
+                {
+                    "name": "Lunglei",
+                    "population": 2234024,
+                    "literacy_rate": 88.09616,
+                    "Cases": 583,
+                    "Mortality rate": 75.8535
+                },
+                {
+                    "name": "Mamit",
+                    "population": 2727448,
+                    "literacy_rate": 68.75672,
+                    "Cases": 946,
+                    "Mortality rate": 68.4759
+                },
+                {
+                    "name": "Saiha",
+                    "population": 1667671,
+                    "literacy_rate": 91.77786,
+                    "Cases": 1686,
+                    "Mortality rate": 66.3323
+                },
+                {
+                    "name": "Serchhip",
+                    "population": 1847096,
+                    "literacy_rate": 78.92502,
+                    "Cases": 1850,
+                    "Mortality rate": 60.7546
+                }
+            ]
+        },
+        {
+            "state": "Nagaland",
+            "districts": [
+                {
+                    "name": "Dimapur",
+                    "population": 409046,
+                    "literacy_rate": 86.34021,
+                    "Cases": 1721,
+                    "Mortality rate": 60.2416
+                },
+                {
+                    "name": "Kiphire",
+                    "population": 345797,
+                    "literacy_rate": 74.37155,
+                    "Cases": 1682,
+                    "Mortality rate": 78.2732
+                },
+                {
+                    "name": "Kohima",
+                    "population": 2952809,
+                    "literacy_rate": 88.53771,
+                    "Cases": 945,
+                    "Mortality rate": 66.2805
+                },
+                {
+                    "name": "Longleng",
+                    "population": 2039448,
+                    "literacy_rate": 74.76872,
+                    "Cases": 2389,
+                    "Mortality rate": 57.7573
+                },
+                {
+                    "name": "Mokokchung",
+                    "population": 2505624,
+                    "literacy_rate": 81.86482,
+                    "Cases": 954,
+                    "Mortality rate": 71.1837
+                },
+                {
+                    "name": "Mon",
+                    "population": 2690154,
+                    "literacy_rate": 66.1393,
+                    "Cases": 1621,
+                    "Mortality rate": 77.9188
+                },
+                {
+                    "name": "Peren",
+                    "population": 1344993,
+                    "literacy_rate": 73.21731,
+                    "Cases": 2090,
+                    "Mortality rate": 67.0975
+                },
+                {
+                    "name": "Phek",
+                    "population": 716032,
+                    "literacy_rate": 80.44508,
+                    "Cases": 2575,
+                    "Mortality rate": 60.306
+                },
+                {
+                    "name": "Tuensang",
+                    "population": 1179877,
+                    "literacy_rate": 67.69248,
+                    "Cases": 2629,
+                    "Mortality rate": 79.3408
+                },
+                {
+                    "name": "Wokha",
+                    "population": 1034923,
+                    "literacy_rate": 70.71291,
+                    "Cases": 2494,
+                    "Mortality rate": 62.8942
+                },
+                {
+                    "name": "Zunheboto",
+                    "population": 2709479,
+                    "literacy_rate": 71.92604,
+                    "Cases": 1554,
+                    "Mortality rate": 67.5381
+                }
+            ]
+        },
+        {
+            "state": "Odisha",
+            "districts": [
+                {
+                    "name": "Angul",
+                    "population": 863492,
+                    "literacy_rate": 77.66753,
+                    "Cases": 1894,
+                    "Mortality rate": 70.7387
+                },
+                {
+                    "name": "Balangir",
+                    "population": 2206049,
+                    "literacy_rate": 74.14529,
+                    "Cases": 940,
+                    "Mortality rate": 73.5998
+                },
+                {
+                    "name": "Balasore",
+                    "population": 2527247,
+                    "literacy_rate": 88.14214,
+                    "Cases": 2143,
+                    "Mortality rate": 70.5898
+                },
+                {
+                    "name": "Bargarh",
+                    "population": 926181,
+                    "literacy_rate": 65.47799,
+                    "Cases": 2543,
+                    "Mortality rate": 57.1979
+                },
+                {
+                    "name": "Bhadrak",
+                    "population": 872580,
+                    "literacy_rate": 83.0196,
+                    "Cases": 889,
+                    "Mortality rate": 77.0658
+                },
+                {
+                    "name": "Boudh",
+                    "population": 2895018,
+                    "literacy_rate": 86.65845,
+                    "Cases": 2370,
+                    "Mortality rate": 79.7399
+                },
+                {
+                    "name": "Cuttack",
+                    "population": 192536,
+                    "literacy_rate": 73.39061,
+                    "Cases": 690,
+                    "Mortality rate": 66.5727
+                },
+                {
+                    "name": "Deogarh",
+                    "population": 2550902,
+                    "literacy_rate": 91.66556,
+                    "Cases": 2663,
+                    "Mortality rate": 60.4816
+                },
+                {
+                    "name": "Dhenkanal",
+                    "population": 2565003,
+                    "literacy_rate": 85.78247,
+                    "Cases": 2635,
+                    "Mortality rate": 75.8428
+                },
+                {
+                    "name": "Gajapati",
+                    "population": 90881,
+                    "literacy_rate": 65.94657,
+                    "Cases": 2874,
+                    "Mortality rate": 71.3328
+                },
+                {
+                    "name": "Ganjam",
+                    "population": 271172,
+                    "literacy_rate": 71.52025,
+                    "Cases": 820,
+                    "Mortality rate": 74.7021
+                },
+                {
+                    "name": "Jagatsinghapur",
+                    "population": 583878,
+                    "literacy_rate": 68.17213,
+                    "Cases": 2807,
+                    "Mortality rate": 70.6045
+                },
+                {
+                    "name": "Jajpur",
+                    "population": 488509,
+                    "literacy_rate": 89.05304,
+                    "Cases": 928,
+                    "Mortality rate": 58.1782
+                },
+                {
+                    "name": "Jharsuguda",
+                    "population": 2882755,
+                    "literacy_rate": 73.59876,
+                    "Cases": 2328,
+                    "Mortality rate": 75.4947
+                },
+                {
+                    "name": "Kalahandi",
+                    "population": 2619742,
+                    "literacy_rate": 69.41151,
+                    "Cases": 2129,
+                    "Mortality rate": 70.9051
+                },
+                {
+                    "name": "Kandhamal",
+                    "population": 274144,
+                    "literacy_rate": 85.08679,
+                    "Cases": 1022,
+                    "Mortality rate": 79.164
+                },
+                {
+                    "name": "Kendrapara",
+                    "population": 2467835,
+                    "literacy_rate": 86.58223,
+                    "Cases": 770,
+                    "Mortality rate": 77.1809
+                },
+                {
+                    "name": "Kendujhar (Keonjhar)",
+                    "population": 545673,
+                    "literacy_rate": 93.17783,
+                    "Cases": 1306,
+                    "Mortality rate": 79.2121
+                },
+                {
+                    "name": "Khordha",
+                    "population": 1536106,
+                    "literacy_rate": 90.92897,
+                    "Cases": 2843,
+                    "Mortality rate": 79.0555
+                },
+                {
+                    "name": "Koraput",
+                    "population": 2267327,
+                    "literacy_rate": 72.13293,
+                    "Cases": 950,
+                    "Mortality rate": 65.9604
+                },
+                {
+                    "name": "Malkangiri",
+                    "population": 69405,
+                    "literacy_rate": 84.47655,
+                    "Cases": 1148,
+                    "Mortality rate": 68.1385
+                },
+                {
+                    "name": "Mayurbhanj",
+                    "population": 1935380,
+                    "literacy_rate": 65.00676,
+                    "Cases": 1784,
+                    "Mortality rate": 74.767
+                },
+                {
+                    "name": "Nabarangpur",
+                    "population": 2126618,
+                    "literacy_rate": 69.96206,
+                    "Cases": 2413,
+                    "Mortality rate": 78.2977
+                },
+                {
+                    "name": "Nayagarh",
+                    "population": 930775,
+                    "literacy_rate": 87.11256,
+                    "Cases": 1310,
+                    "Mortality rate": 69.794
+                },
+                {
+                    "name": "Nuapada",
+                    "population": 2281104,
+                    "literacy_rate": 83.277,
+                    "Cases": 912,
+                    "Mortality rate": 71.2362
+                },
+                {
+                    "name": "Puri",
+                    "population": 2197390,
+                    "literacy_rate": 66.45723,
+                    "Cases": 972,
+                    "Mortality rate": 75.3333
+                },
+                {
+                    "name": "Rayagada",
+                    "population": 2325500,
+                    "literacy_rate": 86.11141,
+                    "Cases": 2385,
+                    "Mortality rate": 72.824
+                },
+                {
+                    "name": "Sambalpur",
+                    "population": 2507011,
+                    "literacy_rate": 65.26183,
+                    "Cases": 2617,
+                    "Mortality rate": 60.9652
+                },
+                {
+                    "name": "Sonepur",
+                    "population": 2633024,
+                    "literacy_rate": 91.35659,
+                    "Cases": 851,
+                    "Mortality rate": 62.6723
+                },
+                {
+                    "name": "Sundargarh",
+                    "population": 2695389,
+                    "literacy_rate": 82.30586,
+                    "Cases": 1624,
+                    "Mortality rate": 63.755
+                }
+            ]
+        },
+        {
+            "state": "Puducherry (UT)",
+            "districts": [
+                {
+                    "name": "Karaikal",
+                    "population": 1649954,
+                    "literacy_rate": 81.46541,
+                    "Cases": 586,
+                    "Mortality rate": 69.5579
+                },
+                {
+                    "name": "Mahe",
+                    "population": 2106867,
+                    "literacy_rate": 71.55746,
+                    "Cases": 511,
+                    "Mortality rate": 63.2226
+                },
+                {
+                    "name": "Pondicherry",
+                    "population": 1837779,
+                    "literacy_rate": 66.37712,
+                    "Cases": 2302,
+                    "Mortality rate": 67.7513
+                },
+                {
+                    "name": "Yanam",
+                    "population": 2513646,
+                    "literacy_rate": 84.23751,
+                    "Cases": 2309,
+                    "Mortality rate": 60.5595
+                }
+            ]
+        },
+        {
+            "state": "Punjab",
+            "districts": [
+                {
+                    "name": "Amritsar",
+                    "population": 659404,
+                    "literacy_rate": 71.79545,
+                    "Cases": 1523,
+                    "Mortality rate": 62.9688
+                },
+                {
+                    "name": "Barnala",
+                    "population": 1717163,
+                    "literacy_rate": 76.47906,
+                    "Cases": 1100,
+                    "Mortality rate": 73.9086
+                },
+                {
+                    "name": "Bathinda",
+                    "population": 474184,
+                    "literacy_rate": 77.44432,
+                    "Cases": 2420,
+                    "Mortality rate": 61.6724
+                },
+                {
+                    "name": "Faridkot",
+                    "population": 1288145,
+                    "literacy_rate": 87.08991,
+                    "Cases": 1214,
+                    "Mortality rate": 68.5598
+                },
+                {
+                    "name": "Fatehgarh Sahib",
+                    "population": 2628340,
+                    "literacy_rate": 83.20551,
+                    "Cases": 1328,
+                    "Mortality rate": 61.9513
+                },
+                {
+                    "name": "Fazilka",
+                    "population": 1390903,
+                    "literacy_rate": 82.20351,
+                    "Cases": 2102,
+                    "Mortality rate": 64.1571
+                },
+                {
+                    "name": "Ferozepur",
+                    "population": 502254,
+                    "literacy_rate": 65.6214,
+                    "Cases": 701,
+                    "Mortality rate": 77.156
+                },
+                {
+                    "name": "Gurdaspur",
+                    "population": 2492648,
+                    "literacy_rate": 93.38904,
+                    "Cases": 1747,
+                    "Mortality rate": 75.4372
+                },
+                {
+                    "name": "Hoshiarpur",
+                    "population": 1337284,
+                    "literacy_rate": 90.25881,
+                    "Cases": 1381,
+                    "Mortality rate": 76.0352
+                },
+                {
+                    "name": "Jalandhar",
+                    "population": 2495207,
+                    "literacy_rate": 81.10202,
+                    "Cases": 2640,
+                    "Mortality rate": 61.2653
+                },
+                {
+                    "name": "Kapurthala",
+                    "population": 1978696,
+                    "literacy_rate": 84.78125,
+                    "Cases": 937,
+                    "Mortality rate": 70.9483
+                },
+                {
+                    "name": "Ludhiana",
+                    "population": 479179,
+                    "literacy_rate": 89.66869,
+                    "Cases": 1518,
+                    "Mortality rate": 62.7261
+                },
+                {
+                    "name": "Mansa",
+                    "population": 2976238,
+                    "literacy_rate": 93.81083,
+                    "Cases": 1901,
+                    "Mortality rate": 60.5098
+                },
+                {
+                    "name": "Moga",
+                    "population": 2419946,
+                    "literacy_rate": 75.48363,
+                    "Cases": 2188,
+                    "Mortality rate": 62.6182
+                },
+                {
+                    "name": "Muktsar",
+                    "population": 2720625,
+                    "literacy_rate": 78.06686,
+                    "Cases": 1963,
+                    "Mortality rate": 79.2837
+                },
+                {
+                    "name": "Nawanshahr (Shahid Bhagat Singh Nagar)",
+                    "population": 1248775,
+                    "literacy_rate": 76.30891,
+                    "Cases": 824,
+                    "Mortality rate": 65.8633
+                },
+                {
+                    "name": "Pathankot",
+                    "population": 1820783,
+                    "literacy_rate": 74.6955,
+                    "Cases": 1865,
+                    "Mortality rate": 60.6461
+                },
+                {
+                    "name": "Patiala",
+                    "population": 1562235,
+                    "literacy_rate": 87.75712,
+                    "Cases": 2550,
+                    "Mortality rate": 71.6181
+                },
+                {
+                    "name": "Rupnagar",
+                    "population": 661744,
+                    "literacy_rate": 81.48824,
+                    "Cases": 582,
+                    "Mortality rate": 76.6733
+                },
+                {
+                    "name": "Sahibzada Ajit Singh Nagar (Mohali)",
+                    "population": 2325202,
+                    "literacy_rate": 78.34156,
+                    "Cases": 2743,
+                    "Mortality rate": 59.1012
+                },
+                {
+                    "name": "Sangrur",
+                    "population": 1992904,
+                    "literacy_rate": 76.92201,
+                    "Cases": 2699,
+                    "Mortality rate": 79.948
+                },
+                {
+                    "name": "Tarn Taran",
+                    "population": 504750,
+                    "literacy_rate": 93.20046,
+                    "Cases": 1854,
+                    "Mortality rate": 73.1366
+                }
+            ]
+        },
+        {
+            "state": "Rajasthan",
+            "districts": [
+                {
+                    "name": "Ajmer",
+                    "population": 1707767,
+                    "literacy_rate": 78.79878,
+                    "Cases": 647,
+                    "Mortality rate": 57.9979
+                },
+                {
+                    "name": "Alwar",
+                    "population": 1786026,
+                    "literacy_rate": 90.49462,
+                    "Cases": 2734,
+                    "Mortality rate": 66.3188
+                },
+                {
+                    "name": "Banswara",
+                    "population": 303967,
+                    "literacy_rate": 83.36684,
+                    "Cases": 1396,
+                    "Mortality rate": 70.2177
+                },
+                {
+                    "name": "Baran",
+                    "population": 370166,
+                    "literacy_rate": 67.81284,
+                    "Cases": 2674,
+                    "Mortality rate": 73.1925
+                },
+                {
+                    "name": "Barmer",
+                    "population": 2738921,
+                    "literacy_rate": 74.17631,
+                    "Cases": 2066,
+                    "Mortality rate": 68.2297
+                },
+                {
+                    "name": "Bharatpur",
+                    "population": 2180059,
+                    "literacy_rate": 83.36294,
+                    "Cases": 1269,
+                    "Mortality rate": 76.8259
+                },
+                {
+                    "name": "Bhilwara",
+                    "population": 1055482,
+                    "literacy_rate": 67.88524,
+                    "Cases": 1404,
+                    "Mortality rate": 63.2265
+                },
+                {
+                    "name": "Bikaner",
+                    "population": 1632212,
+                    "literacy_rate": 77.07416,
+                    "Cases": 579,
+                    "Mortality rate": 60.4122
+                },
+                {
+                    "name": "Bundi",
+                    "population": 1618214,
+                    "literacy_rate": 78.8669,
+                    "Cases": 2521,
+                    "Mortality rate": 61.5905
+                },
+                {
+                    "name": "Chittorgarh",
+                    "population": 2729799,
+                    "literacy_rate": 91.2808,
+                    "Cases": 2636,
+                    "Mortality rate": 72.8107
+                },
+                {
+                    "name": "Churu",
+                    "population": 1924053,
+                    "literacy_rate": 71.19793,
+                    "Cases": 685,
+                    "Mortality rate": 76.809
+                },
+                {
+                    "name": "Dausa",
+                    "population": 839559,
+                    "literacy_rate": 73.73942,
+                    "Cases": 1030,
+                    "Mortality rate": 72.8444
+                },
+                {
+                    "name": "Dholpur",
+                    "population": 2063263,
+                    "literacy_rate": 87.58465,
+                    "Cases": 2262,
+                    "Mortality rate": 68.7536
+                },
+                {
+                    "name": "Dungarpur",
+                    "population": 2677977,
+                    "literacy_rate": 71.36745,
+                    "Cases": 1672,
+                    "Mortality rate": 65.5143
+                },
+                {
+                    "name": "Hanumangarh",
+                    "population": 1468459,
+                    "literacy_rate": 68.52812,
+                    "Cases": 2266,
+                    "Mortality rate": 67.0268
+                },
+                {
+                    "name": "Jaipur",
+                    "population": 1219696,
+                    "literacy_rate": 84.61962,
+                    "Cases": 2975,
+                    "Mortality rate": 69.0771
+                },
+                {
+                    "name": "Jaisalmer",
+                    "population": 2750263,
+                    "literacy_rate": 74.30761,
+                    "Cases": 1729,
+                    "Mortality rate": 61.2609
+                },
+                {
+                    "name": "Jalore",
+                    "population": 2319362,
+                    "literacy_rate": 89.12208,
+                    "Cases": 2115,
+                    "Mortality rate": 76.4008
+                },
+                {
+                    "name": "Jhalawar",
+                    "population": 2391435,
+                    "literacy_rate": 80.48735,
+                    "Cases": 1649,
+                    "Mortality rate": 66.0053
+                },
+                {
+                    "name": "Jhunjhunu",
+                    "population": 1902513,
+                    "literacy_rate": 75.53356,
+                    "Cases": 1252,
+                    "Mortality rate": 76.9869
+                },
+                {
+                    "name": "Jodhpur",
+                    "population": 1943218,
+                    "literacy_rate": 73.37587,
+                    "Cases": 2595,
+                    "Mortality rate": 65.7793
+                },
+                {
+                    "name": "Karauli",
+                    "population": 1079547,
+                    "literacy_rate": 87.48239,
+                    "Cases": 2177,
+                    "Mortality rate": 60.0134
+                },
+                {
+                    "name": "Kota",
+                    "population": 1997813,
+                    "literacy_rate": 76.60576,
+                    "Cases": 2739,
+                    "Mortality rate": 61.5657
+                },
+                {
+                    "name": "Nagaur",
+                    "population": 83489,
+                    "literacy_rate": 79.0385,
+                    "Cases": 1210,
+                    "Mortality rate": 67.0244
+                },
+                {
+                    "name": "Pali",
+                    "population": 2974556,
+                    "literacy_rate": 91.71411,
+                    "Cases": 1768,
+                    "Mortality rate": 64.0067
+                },
+                {
+                    "name": "Pratapgarh",
+                    "population": 1730843,
+                    "literacy_rate": 68.16023,
+                    "Cases": 1623,
+                    "Mortality rate": 59.1237
+                },
+                {
+                    "name": "Rajsamand",
+                    "population": 248063,
+                    "literacy_rate": 74.0571,
+                    "Cases": 669,
+                    "Mortality rate": 69.0684
+                },
+                {
+                    "name": "Sawai Madhopur",
+                    "population": 2717883,
+                    "literacy_rate": 78.97089,
+                    "Cases": 2104,
+                    "Mortality rate": 78.0426
+                },
+                {
+                    "name": "Sikar",
+                    "population": 2708337,
+                    "literacy_rate": 69.12452,
+                    "Cases": 1659,
+                    "Mortality rate": 73.3383
+                },
+                {
+                    "name": "Sirohi",
+                    "population": 1070576,
+                    "literacy_rate": 89.8308,
+                    "Cases": 1874,
+                    "Mortality rate": 71.89
+                },
+                {
+                    "name": "Sri Ganganagar",
+                    "population": 61248,
+                    "literacy_rate": 79.0273,
+                    "Cases": 2639,
+                    "Mortality rate": 68.0994
+                },
+                {
+                    "name": "Tonk",
+                    "population": 300632,
+                    "literacy_rate": 72.797,
+                    "Cases": 1959,
+                    "Mortality rate": 64.5817
+                },
+                {
+                    "name": "Udaipur",
+                    "population": 143153,
+                    "literacy_rate": 68.60869,
+                    "Cases": 2735,
+                    "Mortality rate": 59.1906
+                }
+            ]
+        },
+        {
+            "state": "Sikkim",
+            "districts": [
+                {
+                    "name": "East Sikkim",
+                    "population": 2043655,
+                    "literacy_rate": 65.42482,
+                    "Cases": 1764,
+                    "Mortality rate": 75.5356
+                },
+                {
+                    "name": "North Sikkim",
+                    "population": 1377400,
+                    "literacy_rate": 82.0684,
+                    "Cases": 638,
+                    "Mortality rate": 76.8298
+                },
+                {
+                    "name": "South Sikkim",
+                    "population": 1959810,
+                    "literacy_rate": 85.20611,
+                    "Cases": 1537,
+                    "Mortality rate": 72.2195
+                },
+                {
+                    "name": "West Sikkim",
+                    "population": 2864693,
+                    "literacy_rate": 78.61715,
+                    "Cases": 1774,
+                    "Mortality rate": 77.7136
+                }
+            ]
+        },
+        {
+            "state": "Tamil Nadu",
+            "districts": [
+                {
+                    "name": "Ariyalur",
+                    "population": 1708126,
+                    "literacy_rate": 74.47812,
+                    "Cases": 579,
+                    "Mortality rate": 59.6683
+                },
+                {
+                    "name": "Chennai",
+                    "population": 1572106,
+                    "literacy_rate": 89.02863,
+                    "Cases": 2490,
+                    "Mortality rate": 58.2803
+                },
+                {
+                    "name": "Coimbatore",
+                    "population": 1638409,
+                    "literacy_rate": 85.13022,
+                    "Cases": 2106,
+                    "Mortality rate": 68.1866
+                },
+                {
+                    "name": "Cuddalore",
+                    "population": 2757706,
+                    "literacy_rate": 76.3411,
+                    "Cases": 1911,
+                    "Mortality rate": 60.5189
+                },
+                {
+                    "name": "Dharmapuri",
+                    "population": 1081653,
+                    "literacy_rate": 86.53491,
+                    "Cases": 2427,
+                    "Mortality rate": 64.278
+                },
+                {
+                    "name": "Dindigul",
+                    "population": 2012499,
+                    "literacy_rate": 70.40875,
+                    "Cases": 2164,
+                    "Mortality rate": 63.6408
+                },
+                {
+                    "name": "Erode",
+                    "population": 2194215,
+                    "literacy_rate": 78.08689,
+                    "Cases": 1119,
+                    "Mortality rate": 75.9047
+                },
+                {
+                    "name": "Kanchipuram",
+                    "population": 379324,
+                    "literacy_rate": 71.37357,
+                    "Cases": 1645,
+                    "Mortality rate": 65.2707
+                },
+                {
+                    "name": "Kanyakumari",
+                    "population": 1191520,
+                    "literacy_rate": 65.83267,
+                    "Cases": 1123,
+                    "Mortality rate": 65.7103
+                },
+                {
+                    "name": "Karur",
+                    "population": 2919030,
+                    "literacy_rate": 65.66034,
+                    "Cases": 1013,
+                    "Mortality rate": 74.3982
+                },
+                {
+                    "name": "Krishnagiri",
+                    "population": 1103400,
+                    "literacy_rate": 76.01251,
+                    "Cases": 2326,
+                    "Mortality rate": 79.3411
+                },
+                {
+                    "name": "Madurai",
+                    "population": 2584137,
+                    "literacy_rate": 86.97638,
+                    "Cases": 2853,
+                    "Mortality rate": 58.3474
+                },
+                {
+                    "name": "Nagapattinam",
+                    "population": 1776857,
+                    "literacy_rate": 90.85079,
+                    "Cases": 560,
+                    "Mortality rate": 58.409
+                },
+                {
+                    "name": "Namakkal",
+                    "population": 98851,
+                    "literacy_rate": 92.96073,
+                    "Cases": 2728,
+                    "Mortality rate": 75.4358
+                },
+                {
+                    "name": "Nilgiris",
+                    "population": 1849923,
+                    "literacy_rate": 88.32918,
+                    "Cases": 908,
+                    "Mortality rate": 77.9275
+                },
+                {
+                    "name": "Perambalur",
+                    "population": 1997569,
+                    "literacy_rate": 86.93466,
+                    "Cases": 2064,
+                    "Mortality rate": 75.7858
+                },
+                {
+                    "name": "Pudukkottai",
+                    "population": 1110489,
+                    "literacy_rate": 72.96215,
+                    "Cases": 2075,
+                    "Mortality rate": 65.0033
+                },
+                {
+                    "name": "Ramanathapuram",
+                    "population": 2027723,
+                    "literacy_rate": 75.74962,
+                    "Cases": 2985,
+                    "Mortality rate": 76.658
+                },
+                {
+                    "name": "Salem",
+                    "population": 2599324,
+                    "literacy_rate": 93.66747,
+                    "Cases": 683,
+                    "Mortality rate": 79.8567
+                },
+                {
+                    "name": "Sivaganga",
+                    "population": 2450243,
+                    "literacy_rate": 71.28984,
+                    "Cases": 1753,
+                    "Mortality rate": 69.4705
+                },
+                {
+                    "name": "Thanjavur",
+                    "population": 2982610,
+                    "literacy_rate": 68.84011,
+                    "Cases": 2837,
+                    "Mortality rate": 66.2803
+                },
+                {
+                    "name": "Theni",
+                    "population": 2482018,
+                    "literacy_rate": 84.52505,
+                    "Cases": 2426,
+                    "Mortality rate": 57.9439
+                },
+                {
+                    "name": "Thoothukudi (Tuticorin)",
+                    "population": 446788,
+                    "literacy_rate": 88.18766,
+                    "Cases": 1386,
+                    "Mortality rate": 63.8281
+                },
+                {
+                    "name": "Tiruchirappalli",
+                    "population": 2985100,
+                    "literacy_rate": 70.99827,
+                    "Cases": 1851,
+                    "Mortality rate": 67.3017
+                },
+                {
+                    "name": "Tirunelveli",
+                    "population": 1190193,
+                    "literacy_rate": 73.89643,
+                    "Cases": 2695,
+                    "Mortality rate": 77.9781
+                },
+                {
+                    "name": "Tiruppur",
+                    "population": 2016950,
+                    "literacy_rate": 71.2463,
+                    "Cases": 706,
+                    "Mortality rate": 62.2971
+                },
+                {
+                    "name": "Tiruvallur",
+                    "population": 162081,
+                    "literacy_rate": 84.20281,
+                    "Cases": 1217,
+                    "Mortality rate": 68.7581
+                },
+                {
+                    "name": "Tiruvannamalai",
+                    "population": 2971180,
+                    "literacy_rate": 83.72439,
+                    "Cases": 2966,
+                    "Mortality rate": 76.7019
+                },
+                {
+                    "name": "Tiruvarur",
+                    "population": 417503,
+                    "literacy_rate": 68.77464,
+                    "Cases": 1976,
+                    "Mortality rate": 62.8914
+                },
+                {
+                    "name": "Vellore",
+                    "population": 2450564,
+                    "literacy_rate": 88.64854,
+                    "Cases": 1697,
+                    "Mortality rate": 74.9411
+                },
+                {
+                    "name": "Viluppuram",
+                    "population": 2893142,
+                    "literacy_rate": 77.16766,
+                    "Cases": 2887,
+                    "Mortality rate": 68.8294
+                },
+                {
+                    "name": "Virudhunagar",
+                    "population": 1210195,
+                    "literacy_rate": 92.18694,
+                    "Cases": 821,
+                    "Mortality rate": 75.1318
+                }
+            ]
+        },
+        {
+            "state": "Telangana",
+            "districts": [
+                {
+                    "name": "Adilabad",
+                    "population": 1449555,
+                    "literacy_rate": 74.11901,
+                    "Cases": 2701,
+                    "Mortality rate": 63.9963
+                },
+                {
+                    "name": "Bhadradri Kothagudem",
+                    "population": 843003,
+                    "literacy_rate": 84.24641,
+                    "Cases": 636,
+                    "Mortality rate": 59.9494
+                },
+                {
+                    "name": "Hyderabad",
+                    "population": 2131304,
+                    "literacy_rate": 66.91887,
+                    "Cases": 2088,
+                    "Mortality rate": 70.7678
+                },
+                {
+                    "name": "Jagtial",
+                    "population": 1355258,
+                    "literacy_rate": 86.44053,
+                    "Cases": 2120,
+                    "Mortality rate": 68.2722
+                },
+                {
+                    "name": "Jangaon",
+                    "population": 2773912,
+                    "literacy_rate": 93.19539,
+                    "Cases": 2333,
+                    "Mortality rate": 69.7181
+                },
+                {
+                    "name": "Jayashankar Bhoopalpally",
+                    "population": 2819333,
+                    "literacy_rate": 80.99251,
+                    "Cases": 1041,
+                    "Mortality rate": 66.9912
+                },
+                {
+                    "name": "Jogulamba Gadwal",
+                    "population": 2008314,
+                    "literacy_rate": 78.91793,
+                    "Cases": 1113,
+                    "Mortality rate": 60.0562
+                },
+                {
+                    "name": "Kamareddy",
+                    "population": 1663858,
+                    "literacy_rate": 70.70903,
+                    "Cases": 2093,
+                    "Mortality rate": 62.0469
+                },
+                {
+                    "name": "Karimnagar",
+                    "population": 2447666,
+                    "literacy_rate": 74.8669,
+                    "Cases": 1356,
+                    "Mortality rate": 70.6091
+                },
+                {
+                    "name": "Khammam",
+                    "population": 2234266,
+                    "literacy_rate": 82.70851,
+                    "Cases": 581,
+                    "Mortality rate": 64.7646
+                },
+                {
+                    "name": "Komaram Bheem Asifabad",
+                    "population": 1038007,
+                    "literacy_rate": 89.58747,
+                    "Cases": 2914,
+                    "Mortality rate": 62.4212
+                },
+                {
+                    "name": "Mahabubabad",
+                    "population": 876131,
+                    "literacy_rate": 82.04062,
+                    "Cases": 1731,
+                    "Mortality rate": 58.0972
+                },
+                {
+                    "name": "Mahabubnagar",
+                    "population": 2871971,
+                    "literacy_rate": 91.53877,
+                    "Cases": 734,
+                    "Mortality rate": 71.636
+                },
+                {
+                    "name": "Mancherial",
+                    "population": 2904844,
+                    "literacy_rate": 80.91016,
+                    "Cases": 2170,
+                    "Mortality rate": 78.923
+                },
+                {
+                    "name": "Medak",
+                    "population": 1540295,
+                    "literacy_rate": 75.72107,
+                    "Cases": 2511,
+                    "Mortality rate": 75.5377
+                },
+                {
+                    "name": "Medchal",
+                    "population": 2206533,
+                    "literacy_rate": 80.33207,
+                    "Cases": 1367,
+                    "Mortality rate": 76.9786
+                },
+                {
+                    "name": "Nagarkurnool",
+                    "population": 2833522,
+                    "literacy_rate": 71.29196,
+                    "Cases": 1975,
+                    "Mortality rate": 63.371
+                },
+                {
+                    "name": "Nalgonda",
+                    "population": 303318,
+                    "literacy_rate": 82.91838,
+                    "Cases": 1645,
+                    "Mortality rate": 68.2442
+                },
+                {
+                    "name": "Nirmal",
+                    "population": 1862730,
+                    "literacy_rate": 67.15768,
+                    "Cases": 1493,
+                    "Mortality rate": 72.4459
+                },
+                {
+                    "name": "Nizamabad",
+                    "population": 619918,
+                    "literacy_rate": 65.83081,
+                    "Cases": 1459,
+                    "Mortality rate": 58.0354
+                },
+                {
+                    "name": "Peddapalli",
+                    "population": 1093705,
+                    "literacy_rate": 81.41818,
+                    "Cases": 679,
+                    "Mortality rate": 65.5058
+                },
+                {
+                    "name": "Rajanna Sircilla",
+                    "population": 1950614,
+                    "literacy_rate": 69.75008,
+                    "Cases": 2390,
+                    "Mortality rate": 67.1968
+                },
+                {
+                    "name": "Rangareddy",
+                    "population": 1563020,
+                    "literacy_rate": 93.5308,
+                    "Cases": 2667,
+                    "Mortality rate": 75.6425
+                },
+                {
+                    "name": "Sangareddy",
+                    "population": 398271,
+                    "literacy_rate": 89.6753,
+                    "Cases": 2851,
+                    "Mortality rate": 62.1547
+                },
+                {
+                    "name": "Siddipet",
+                    "population": 634172,
+                    "literacy_rate": 77.24915,
+                    "Cases": 890,
+                    "Mortality rate": 67.1803
+                },
+                {
+                    "name": "Suryapet",
+                    "population": 204601,
+                    "literacy_rate": 80.49319,
+                    "Cases": 1153,
+                    "Mortality rate": 60.1894
+                },
+                {
+                    "name": "Vikarabad",
+                    "population": 756082,
+                    "literacy_rate": 80.26,
+                    "Cases": 1588,
+                    "Mortality rate": 65.0006
+                },
+                {
+                    "name": "Wanaparthy",
+                    "population": 1482387,
+                    "literacy_rate": 91.6459,
+                    "Cases": 1788,
+                    "Mortality rate": 58.9867
+                },
+                {
+                    "name": "Warangal (Rural)",
+                    "population": 2832713,
+                    "literacy_rate": 76.20782,
+                    "Cases": 2739,
+                    "Mortality rate": 61.4602
+                },
+                {
+                    "name": "Warangal (Urban)",
+                    "population": 1039476,
+                    "literacy_rate": 83.61994,
+                    "Cases": 817,
+                    "Mortality rate": 77.8586
+                },
+                {
+                    "name": "Yadadri Bhuvanagiri",
+                    "population": 823649,
+                    "literacy_rate": 79.47432,
+                    "Cases": 1955,
+                    "Mortality rate": 62.7964
+                }
+            ]
+        },
+        {
+            "state": "Tripura",
+            "districts": [
+                {
+                    "name": "Dhalai",
+                    "population": 1400965,
+                    "literacy_rate": 69.80516,
+                    "Cases": 1578,
+                    "Mortality rate": 66.1492
+                },
+                {
+                    "name": "Gomati",
+                    "population": 1864768,
+                    "literacy_rate": 90.60902,
+                    "Cases": 2350,
+                    "Mortality rate": 57.9388
+                },
+                {
+                    "name": "Khowai",
+                    "population": 1279635,
+                    "literacy_rate": 82.0155,
+                    "Cases": 580,
+                    "Mortality rate": 78.532
+                },
+                {
+                    "name": "North Tripura",
+                    "population": 1628280,
+                    "literacy_rate": 86.46709,
+                    "Cases": 862,
+                    "Mortality rate": 67.8124
+                },
+                {
+                    "name": "Sepahijala",
+                    "population": 2428754,
+                    "literacy_rate": 69.46682,
+                    "Cases": 1314,
+                    "Mortality rate": 62.3993
+                },
+                {
+                    "name": "South Tripura",
+                    "population": 2928924,
+                    "literacy_rate": 82.05982,
+                    "Cases": 1891,
+                    "Mortality rate": 72.6635
+                },
+                {
+                    "name": "Unakoti",
+                    "population": 2072302,
+                    "literacy_rate": 69.19796,
+                    "Cases": 1640,
+                    "Mortality rate": 68.7707
+                },
+                {
+                    "name": "West Tripura",
+                    "population": 1789133,
+                    "literacy_rate": 69.56813,
+                    "Cases": 2727,
+                    "Mortality rate": 64.2277
+                }
+            ]
+        },
+        {
+            "state": "Uttarakhand",
+            "districts": [
+                {
+                    "name": "Almora",
+                    "population": 418955,
+                    "literacy_rate": 87.27548,
+                    "Cases": 699,
+                    "Mortality rate": 58.3537
+                },
+                {
+                    "name": "Bageshwar",
+                    "population": 1916442,
+                    "literacy_rate": 90.51459,
+                    "Cases": 1787,
+                    "Mortality rate": 60.3129
+                },
+                {
+                    "name": "Chamoli",
+                    "population": 879547,
+                    "literacy_rate": 79.55219,
+                    "Cases": 2028,
+                    "Mortality rate": 62.4005
+                },
+                {
+                    "name": "Champawat",
+                    "population": 1442740,
+                    "literacy_rate": 91.43504,
+                    "Cases": 670,
+                    "Mortality rate": 66.9409
+                },
+                {
+                    "name": "Dehradun",
+                    "population": 1951579,
+                    "literacy_rate": 92.44836,
+                    "Cases": 639,
+                    "Mortality rate": 75.0693
+                },
+                {
+                    "name": "Haridwar",
+                    "population": 1165470,
+                    "literacy_rate": 77.7153,
+                    "Cases": 576,
+                    "Mortality rate": 75.7698
+                },
+                {
+                    "name": "Nainital",
+                    "population": 1563550,
+                    "literacy_rate": 77.91278,
+                    "Cases": 1884,
+                    "Mortality rate": 71.5771
+                },
+                {
+                    "name": "Pauri Garhwal",
+                    "population": 2969642,
+                    "literacy_rate": 83.4475,
+                    "Cases": 519,
+                    "Mortality rate": 71.7191
+                },
+                {
+                    "name": "Pithoragarh",
+                    "population": 2084520,
+                    "literacy_rate": 67.33356,
+                    "Cases": 1562,
+                    "Mortality rate": 57.1524
+                },
+                {
+                    "name": "Rudraprayag",
+                    "population": 174413,
+                    "literacy_rate": 81.90652,
+                    "Cases": 2789,
+                    "Mortality rate": 75.9912
+                },
+                {
+                    "name": "Tehri Garhwal",
+                    "population": 919375,
+                    "literacy_rate": 87.32961,
+                    "Cases": 2627,
+                    "Mortality rate": 65.4842
+                },
+                {
+                    "name": "Udham Singh Nagar",
+                    "population": 2668038,
+                    "literacy_rate": 70.21171,
+                    "Cases": 2822,
+                    "Mortality rate": 77.0408
+                },
+                {
+                    "name": "Uttarkashi",
+                    "population": 209370,
+                    "literacy_rate": 91.86206,
+                    "Cases": 1335,
+                    "Mortality rate": 61.5042
+                }
+            ]
+        },
+        {
+            "state": "Uttar Pradesh",
+            "districts": [
+                {
+                    "name": "Agra",
+                    "population": 134748,
+                    "literacy_rate": 66.34765,
+                    "Cases": 2408,
+                    "Mortality rate": 57.5102
+                },
+                {
+                    "name": "Aligarh",
+                    "population": 2095913,
+                    "literacy_rate": 92.82724,
+                    "Cases": 516,
+                    "Mortality rate": 70.6232
+                },
+                {
+                    "name": "Allahabad",
+                    "population": 1359554,
+                    "literacy_rate": 91.96979,
+                    "Cases": 1136,
+                    "Mortality rate": 76.943
+                },
+                {
+                    "name": "Ambedkar Nagar",
+                    "population": 518439,
+                    "literacy_rate": 87.76633,
+                    "Cases": 1098,
+                    "Mortality rate": 73.4437
+                },
+                {
+                    "name": "Amethi (Chatrapati Sahuji Mahraj Nagar)",
+                    "population": 2783424,
+                    "literacy_rate": 83.79495,
+                    "Cases": 1653,
+                    "Mortality rate": 73.142
+                },
+                {
+                    "name": "Amroha (J.P. Nagar)",
+                    "population": 1383753,
+                    "literacy_rate": 70.01956,
+                    "Cases": 1042,
+                    "Mortality rate": 75.5352
+                },
+                {
+                    "name": "Auraiya",
+                    "population": 283609,
+                    "literacy_rate": 71.52479,
+                    "Cases": 1504,
+                    "Mortality rate": 75.9144
+                },
+                {
+                    "name": "Azamgarh",
+                    "population": 2483211,
+                    "literacy_rate": 82.59232,
+                    "Cases": 920,
+                    "Mortality rate": 64.6532
+                },
+                {
+                    "name": "Baghpat",
+                    "population": 1501772,
+                    "literacy_rate": 88.9579,
+                    "Cases": 2098,
+                    "Mortality rate": 79.1606
+                },
+                {
+                    "name": "Bahraich",
+                    "population": 409643,
+                    "literacy_rate": 84.24461,
+                    "Cases": 2857,
+                    "Mortality rate": 64.8717
+                },
+                {
+                    "name": "Ballia",
+                    "population": 1766797,
+                    "literacy_rate": 67.31048,
+                    "Cases": 2401,
+                    "Mortality rate": 75.3937
+                },
+                {
+                    "name": "Balrampur",
+                    "population": 2130390,
+                    "literacy_rate": 83.76687,
+                    "Cases": 1394,
+                    "Mortality rate": 64.1544
+                },
+                {
+                    "name": "Banda",
+                    "population": 1746913,
+                    "literacy_rate": 92.22936,
+                    "Cases": 1073,
+                    "Mortality rate": 57.1717
+                },
+                {
+                    "name": "Barabanki",
+                    "population": 2499819,
+                    "literacy_rate": 88.39062,
+                    "Cases": 2835,
+                    "Mortality rate": 74.1276
+                },
+                {
+                    "name": "Bareilly",
+                    "population": 808630,
+                    "literacy_rate": 80.75575,
+                    "Cases": 1261,
+                    "Mortality rate": 58.6714
+                },
+                {
+                    "name": "Basti",
+                    "population": 1757604,
+                    "literacy_rate": 88.10691,
+                    "Cases": 1071,
+                    "Mortality rate": 58.6931
+                },
+                {
+                    "name": "Bhadohi",
+                    "population": 662291,
+                    "literacy_rate": 77.77061,
+                    "Cases": 2473,
+                    "Mortality rate": 78.1467
+                },
+                {
+                    "name": "Bijnor",
+                    "population": 2186452,
+                    "literacy_rate": 73.50857,
+                    "Cases": 1904,
+                    "Mortality rate": 78.0989
+                },
+                {
+                    "name": "Budaun",
+                    "population": 791869,
+                    "literacy_rate": 75.73822,
+                    "Cases": 1275,
+                    "Mortality rate": 70.0389
+                },
+                {
+                    "name": "Bulandshahr",
+                    "population": 2623346,
+                    "literacy_rate": 65.17357,
+                    "Cases": 1687,
+                    "Mortality rate": 76.5302
+                },
+                {
+                    "name": "Chandauli",
+                    "population": 2214096,
+                    "literacy_rate": 75.19052,
+                    "Cases": 1941,
+                    "Mortality rate": 58.829
+                },
+                {
+                    "name": "Chitrakoot",
+                    "population": 497145,
+                    "literacy_rate": 85.52465,
+                    "Cases": 822,
+                    "Mortality rate": 66.5802
+                },
+                {
+                    "name": "Deoria",
+                    "population": 2940627,
+                    "literacy_rate": 92.88318,
+                    "Cases": 1963,
+                    "Mortality rate": 63.7923
+                },
+                {
+                    "name": "Etah",
+                    "population": 1106757,
+                    "literacy_rate": 66.05153,
+                    "Cases": 2577,
+                    "Mortality rate": 61.02
+                },
+                {
+                    "name": "Etawah",
+                    "population": 398228,
+                    "literacy_rate": 69.48405,
+                    "Cases": 2255,
+                    "Mortality rate": 57.946
+                },
+                {
+                    "name": "Faizabad",
+                    "population": 2658517,
+                    "literacy_rate": 76.15291,
+                    "Cases": 881,
+                    "Mortality rate": 58.6687
+                },
+                {
+                    "name": "Farrukhabad",
+                    "population": 59515,
+                    "literacy_rate": 81.11684,
+                    "Cases": 746,
+                    "Mortality rate": 59.3015
+                },
+                {
+                    "name": "Fatehpur",
+                    "population": 2901681,
+                    "literacy_rate": 90.81731,
+                    "Cases": 2292,
+                    "Mortality rate": 74.1365
+                },
+                {
+                    "name": "Firozabad",
+                    "population": 906968,
+                    "literacy_rate": 89.51299,
+                    "Cases": 2063,
+                    "Mortality rate": 57.5926
+                },
+                {
+                    "name": "Gautam Buddha Nagar",
+                    "population": 2100900,
+                    "literacy_rate": 85.95308,
+                    "Cases": 1949,
+                    "Mortality rate": 77.883
+                },
+                {
+                    "name": "Ghaziabad",
+                    "population": 1009002,
+                    "literacy_rate": 87.11915,
+                    "Cases": 1934,
+                    "Mortality rate": 76.2982
+                },
+                {
+                    "name": "Ghazipur",
+                    "population": 1564083,
+                    "literacy_rate": 83.68998,
+                    "Cases": 1893,
+                    "Mortality rate": 71.3191
+                },
+                {
+                    "name": "Gonda",
+                    "population": 2947050,
+                    "literacy_rate": 84.82438,
+                    "Cases": 608,
+                    "Mortality rate": 69.7281
+                },
+                {
+                    "name": "Gorakhpur",
+                    "population": 2201105,
+                    "literacy_rate": 70.3946,
+                    "Cases": 1059,
+                    "Mortality rate": 57.1874
+                },
+                {
+                    "name": "Hamirpur",
+                    "population": 132955,
+                    "literacy_rate": 80.81655,
+                    "Cases": 716,
+                    "Mortality rate": 79.8778
+                },
+                {
+                    "name": "Hapur (Panchsheel Nagar)",
+                    "population": 2595888,
+                    "literacy_rate": 70.09975,
+                    "Cases": 2296,
+                    "Mortality rate": 65.4798
+                },
+                {
+                    "name": "Hardoi",
+                    "population": 1374247,
+                    "literacy_rate": 84.41714,
+                    "Cases": 1219,
+                    "Mortality rate": 75.7978
+                },
+                {
+                    "name": "Hathras",
+                    "population": 575837,
+                    "literacy_rate": 90.79591,
+                    "Cases": 1818,
+                    "Mortality rate": 67.8717
+                },
+                {
+                    "name": "Jalaun",
+                    "population": 1621288,
+                    "literacy_rate": 86.21022,
+                    "Cases": 1785,
+                    "Mortality rate": 73.7234
+                },
+                {
+                    "name": "Jaunpur",
+                    "population": 1210312,
+                    "literacy_rate": 79.31959,
+                    "Cases": 2202,
+                    "Mortality rate": 72.3795
+                },
+                {
+                    "name": "Jhansi",
+                    "population": 563112,
+                    "literacy_rate": 88.1391,
+                    "Cases": 744,
+                    "Mortality rate": 75.8544
+                },
+                {
+                    "name": "Kannauj",
+                    "population": 2000998,
+                    "literacy_rate": 68.32979,
+                    "Cases": 1880,
+                    "Mortality rate": 66.8721
+                },
+                {
+                    "name": "Kanpur Dehat",
+                    "population": 314694,
+                    "literacy_rate": 83.23298,
+                    "Cases": 1015,
+                    "Mortality rate": 68.7125
+                },
+                {
+                    "name": "Kanpur Nagar",
+                    "population": 2285967,
+                    "literacy_rate": 83.21697,
+                    "Cases": 2947,
+                    "Mortality rate": 72.6472
+                },
+                {
+                    "name": "Kanshiram Nagar (Kasganj)",
+                    "population": 2582242,
+                    "literacy_rate": 92.14704,
+                    "Cases": 1007,
+                    "Mortality rate": 58.9056
+                },
+                {
+                    "name": "Kaushambi",
+                    "population": 2122472,
+                    "literacy_rate": 71.49541,
+                    "Cases": 2228,
+                    "Mortality rate": 60.1432
+                },
+                {
+                    "name": "Kushinagar (Padrauna)",
+                    "population": 1685894,
+                    "literacy_rate": 74.54964,
+                    "Cases": 2147,
+                    "Mortality rate": 71.9394
+                },
+                {
+                    "name": "Lakhimpur - Kheri",
+                    "population": 760520,
+                    "literacy_rate": 83.5871,
+                    "Cases": 1039,
+                    "Mortality rate": 79.8803
+                },
+                {
+                    "name": "Lalitpur",
+                    "population": 1611005,
+                    "literacy_rate": 89.01846,
+                    "Cases": 1516,
+                    "Mortality rate": 65.5912
+                },
+                {
+                    "name": "Lucknow",
+                    "population": 863819,
+                    "literacy_rate": 73.03298,
+                    "Cases": 2315,
+                    "Mortality rate": 68.031
+                },
+                {
+                    "name": "Maharajganj",
+                    "population": 534004,
+                    "literacy_rate": 91.95014,
+                    "Cases": 1830,
+                    "Mortality rate": 65.7356
+                },
+                {
+                    "name": "Mahoba",
+                    "population": 810542,
+                    "literacy_rate": 80.69321,
+                    "Cases": 2981,
+                    "Mortality rate": 58.2443
+                },
+                {
+                    "name": "Mainpuri",
+                    "population": 2441271,
+                    "literacy_rate": 91.98632,
+                    "Cases": 2909,
+                    "Mortality rate": 57.0854
+                },
+                {
+                    "name": "Mathura",
+                    "population": 2924139,
+                    "literacy_rate": 76.11671,
+                    "Cases": 1617,
+                    "Mortality rate": 65.9597
+                },
+                {
+                    "name": "Mau",
+                    "population": 1197207,
+                    "literacy_rate": 85.30823,
+                    "Cases": 576,
+                    "Mortality rate": 59.7031
+                },
+                {
+                    "name": "Meerut",
+                    "population": 687329,
+                    "literacy_rate": 71.6075,
+                    "Cases": 1576,
+                    "Mortality rate": 73.7168
+                },
+                {
+                    "name": "Mirzapur",
+                    "population": 2429973,
+                    "literacy_rate": 92.57754,
+                    "Cases": 1960,
+                    "Mortality rate": 58.6799
+                },
+                {
+                    "name": "Moradabad",
+                    "population": 105903,
+                    "literacy_rate": 79.7696,
+                    "Cases": 2006,
+                    "Mortality rate": 64.266
+                },
+                {
+                    "name": "Muzaffarnagar",
+                    "population": 1639852,
+                    "literacy_rate": 80.7228,
+                    "Cases": 1665,
+                    "Mortality rate": 67.7951
+                },
+                {
+                    "name": "Pilibhit",
+                    "population": 637017,
+                    "literacy_rate": 66.3267,
+                    "Cases": 1127,
+                    "Mortality rate": 61.01
+                },
+                {
+                    "name": "Pratapgarh",
+                    "population": 2296546,
+                    "literacy_rate": 80.95795,
+                    "Cases": 958,
+                    "Mortality rate": 78.3983
+                },
+                {
+                    "name": "RaeBareli",
+                    "population": 2206565,
+                    "literacy_rate": 79.62133,
+                    "Cases": 516,
+                    "Mortality rate": 79.4657
+                },
+                {
+                    "name": "Rampur",
+                    "population": 362234,
+                    "literacy_rate": 67.97965,
+                    "Cases": 1578,
+                    "Mortality rate": 74.3984
+                },
+                {
+                    "name": "Saharanpur",
+                    "population": 67289,
+                    "literacy_rate": 90.46087,
+                    "Cases": 647,
+                    "Mortality rate": 64.1433
+                },
+                {
+                    "name": "Sambhal (Bhim Nagar)",
+                    "population": 417401,
+                    "literacy_rate": 92.05761,
+                    "Cases": 2143,
+                    "Mortality rate": 57.0416
+                },
+                {
+                    "name": "Sant Kabir Nagar",
+                    "population": 1854050,
+                    "literacy_rate": 89.14866,
+                    "Cases": 2173,
+                    "Mortality rate": 71.756
+                },
+                {
+                    "name": "Shahjahanpur",
+                    "population": 2845736,
+                    "literacy_rate": 83.5109,
+                    "Cases": 2545,
+                    "Mortality rate": 69.6951
+                },
+                {
+                    "name": "Shamali (Prabuddh Nagar)",
+                    "population": 1157395,
+                    "literacy_rate": 83.69998,
+                    "Cases": 1417,
+                    "Mortality rate": 57.9759
+                },
+                {
+                    "name": "Shravasti",
+                    "population": 804874,
+                    "literacy_rate": 71.97578,
+                    "Cases": 1605,
+                    "Mortality rate": 65.2386
+                },
+                {
+                    "name": "Siddharth Nagar",
+                    "population": 1581021,
+                    "literacy_rate": 72.36457,
+                    "Cases": 830,
+                    "Mortality rate": 70.9179
+                },
+                {
+                    "name": "Sitapur",
+                    "population": 2366644,
+                    "literacy_rate": 90.39387,
+                    "Cases": 2027,
+                    "Mortality rate": 78.2391
+                },
+                {
+                    "name": "Sonbhadra",
+                    "population": 1432518,
+                    "literacy_rate": 84.69254,
+                    "Cases": 2094,
+                    "Mortality rate": 79.9219
+                },
+                {
+                    "name": "Sultanpur",
+                    "population": 1827230,
+                    "literacy_rate": 83.85378,
+                    "Cases": 1914,
+                    "Mortality rate": 73.08
+                },
+                {
+                    "name": "Unnao",
+                    "population": 2851775,
+                    "literacy_rate": 81.78827,
+                    "Cases": 2761,
+                    "Mortality rate": 60.1664
+                },
+                {
+                    "name": "Varanasi",
+                    "population": 571832,
+                    "literacy_rate": 82.99014,
+                    "Cases": 2359,
+                    "Mortality rate": 59.0021
+                }
+            ]
+        },
+        {
+            "state": "West Bengal",
+            "districts": [
+                {
+                    "name": "Alipurduar",
+                    "population": 1048684,
+                    "literacy_rate": 65.37763,
+                    "Cases": 1627,
+                    "Mortality rate": 67.817
+                },
+                {
+                    "name": "Bankura",
+                    "population": 895341,
+                    "literacy_rate": 77.34345,
+                    "Cases": 2896,
+                    "Mortality rate": 60.8272
+                },
+                {
+                    "name": "Birbhum",
+                    "population": 404100,
+                    "literacy_rate": 91.12496,
+                    "Cases": 1674,
+                    "Mortality rate": 66.5044
+                },
+                {
+                    "name": "Burdwan (Bardhaman)",
+                    "population": 556210,
+                    "literacy_rate": 67.88926,
+                    "Cases": 675,
+                    "Mortality rate": 72.1851
+                },
+                {
+                    "name": "Cooch Behar",
+                    "population": 623487,
+                    "literacy_rate": 66.94497,
+                    "Cases": 2291,
+                    "Mortality rate": 72.409
+                },
+                {
+                    "name": "Dakshin Dinajpur (South Dinajpur)",
+                    "population": 167542,
+                    "literacy_rate": 86.74177,
+                    "Cases": 2471,
+                    "Mortality rate": 78.1889
+                },
+                {
+                    "name": "Darjeeling",
+                    "population": 2062552,
+                    "literacy_rate": 75.1613,
+                    "Cases": 2087,
+                    "Mortality rate": 73.4302
+                },
+                {
+                    "name": "Hooghly",
+                    "population": 2249318,
+                    "literacy_rate": 76.37895,
+                    "Cases": 2427,
+                    "Mortality rate": 64.9098
+                },
+                {
+                    "name": "Howrah",
+                    "population": 1915842,
+                    "literacy_rate": 72.49965,
+                    "Cases": 2856,
+                    "Mortality rate": 72.2113
+                },
+                {
+                    "name": "Jalpaiguri",
+                    "population": 1573113,
+                    "literacy_rate": 74.35933,
+                    "Cases": 1871,
+                    "Mortality rate": 60.8905
+                },
+                {
+                    "name": "Kalimpong",
+                    "population": 1466076,
+                    "literacy_rate": 78.53645,
+                    "Cases": 2004,
+                    "Mortality rate": 76.307
+                },
+                {
+                    "name": "Kolkata",
+                    "population": 352957,
+                    "literacy_rate": 65.02257,
+                    "Cases": 2408,
+                    "Mortality rate": 57.3237
+                },
+                {
+                    "name": "Malda",
+                    "population": 857084,
+                    "literacy_rate": 69.33531,
+                    "Cases": 2152,
+                    "Mortality rate": 62.8384
+                },
+                {
+                    "name": "Murshidabad",
+                    "population": 338673,
+                    "literacy_rate": 81.98201,
+                    "Cases": 2746,
+                    "Mortality rate": 70.1718
+                },
+                {
+                    "name": "Nadia",
+                    "population": 368091,
+                    "literacy_rate": 85.92703,
+                    "Cases": 2865,
+                    "Mortality rate": 78.6794
+                },
+                {
+                    "name": "North 24 Parganas",
+                    "population": 2952150,
+                    "literacy_rate": 66.07585,
+                    "Cases": 675,
+                    "Mortality rate": 67.4844
+                },
+                {
+                    "name": "Paschim Medinipur (West Medinipur)",
+                    "population": 960249,
+                    "literacy_rate": 79.14477,
+                    "Cases": 1506,
+                    "Mortality rate": 70.3536
+                },
+                {
+                    "name": "Purba Medinipur (East Medinipur)",
+                    "population": 1051209,
+                    "literacy_rate": 81.82013,
+                    "Cases": 2531,
+                    "Mortality rate": 74.2595
+                },
+                {
+                    "name": "Purulia",
+                    "population": 379767,
+                    "literacy_rate": 83.30787,
+                    "Cases": 534,
+                    "Mortality rate": 76.1074
+                },
+                {
+                    "name": "South 24 Parganas",
+                    "population": 445157,
+                    "literacy_rate": 81.65058,
+                    "Cases": 513,
+                    "Mortality rate": 57.4411
+                },
+                {
+                    "name": "Uttar Dinajpur (North Dinajpur)",
+                    "population": 827860,
+                    "literacy_rate": 88.73532,
+                    "Cases": 1535,
+                    "Mortality rate": 63.0627
+                }
+            ]
+        }
+    ]
+}
