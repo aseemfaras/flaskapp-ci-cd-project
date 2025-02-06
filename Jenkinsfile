@@ -8,7 +8,8 @@ pipeline {
     stages {
         stage('Checkout') {
             steps {
-                git 'https://github.com/aseemfaras/flaskapp-ci-cd-project.git'
+                git branch: 'main', url: 'https://github.com/aseemfaras/flaskapp-ci-cd-project.git'
+
             }
         }
 
