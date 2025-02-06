@@ -14,11 +14,12 @@ pipeline {
         }
 
         stage('Build and Test') {
-            steps {
-                sh 'pip install -r requirements.txt'
-                sh 'pytest || echo "Tests failed, continuing..."'  // Prevent failure if no tests
+    steps {
+        sh 'python3 -m pip install --break-system-packages -r requirements.txt'
+        sh 'pytest'
             }
         }
+
 
         stage('Docker Build') {
             steps {
