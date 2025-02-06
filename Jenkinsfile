@@ -36,10 +36,14 @@ pipeline {
         }
 
         stage('Deploy') {
-            steps {
-                sh 'docker run -d -p 5000:5000 $DOCKER_IMAGE'
+    steps {
+        // Optionally, stop any container running on port 5000
+        sh 'docker ps -q --filter "publish=5000" | xargs -r docker rm -f'
+        // Now run the new container
+        sh 'docker run -d -p 5000:5000 aseemfaras/flask-webapp:latest'
             }
         }
+
 
         stage('Deploy to Kubernetes') {
             steps {
