@@ -46,9 +46,16 @@ pipeline {
 
 
         stage('Deploy to Kubernetes') {
-            steps {
-                sh 'kubectl apply -f k8s/deployment.yaml'
-            }
+    steps {
+        // If using a kubeconfig stored as a Jenkins secret:
+        withCredentials([file(credentialsId: 'kubeconfig-file', variable: 'KUBECONFIG_FILE')]) {
+            // Copy the kubeconfig to the default location
+            sh 'mkdir -p ~/.kube && cp $KUBECONFIG_FILE ~/.kube/config'
         }
+        // Apply the Kubernetes deployment
+        sh 'kubectl apply -f k8s/deployment.yaml'
+    }
+}
+
     }
 }
