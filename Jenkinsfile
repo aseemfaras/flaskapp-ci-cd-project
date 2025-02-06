@@ -2,7 +2,7 @@ pipeline {
     agent any
 
     environment {
-        DOCKER_IMAGE = "your-dockerhub-username/flask-webapp:latest"
+        DOCKER_IMAGE = "aseemfaras/flask-webapp:latest"
     }
 
     stages {
