@@ -1,30 +1,41 @@
 pipeline {
     agent any
+
     environment {
-        DOCKER_IMAGE = 'aseemfaras/flask-webapp'
+        DOCKER_IMAGE = "your-dockerhub-username/flask-webapp:latest"
     }
+
     stages {
-        stage('Clone Repository') {
+        stage('Checkout') {
             steps {
-                git branch: 'main',
                 git 'https://github.com/aseemfaras/flaskapp-ci-cd-project.git'
             }
         }
-        stage('Build') {
+
+        stage('Build and Test') {
+            steps {
+                sh 'pip install -r requirements.txt'
+                sh 'pytest'  // If you have tests
+            }
+        }
+
+        stage('Docker Build') {
             steps {
                 sh 'docker build -t $DOCKER_IMAGE .'
             }
         }
-        stage('Push to DockerHub') {
+
+        stage('Docker Push') {
             steps {
                 withDockerRegistry([credentialsId: 'docker-hub-credentials', url: '']) {
                     sh 'docker push $DOCKER_IMAGE'
                 }
             }
         }
-        stage('Deploy to Kubernetes') {
+
+        stage('Deploy') {
             steps {
-                sh 'kubectl apply -f k8s/deployment.yaml'
+                sh 'docker run -d -p 5000:5000 $DOCKER_IMAGE'
             }
         }
     }
