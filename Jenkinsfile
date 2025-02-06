@@ -16,9 +16,10 @@ pipeline {
         stage('Build and Test') {
     steps {
         sh 'python3 -m pip install --break-system-packages -r requirements.txt'
-        sh 'pytest'
+        sh 'python3 -m pytest'
             }
         }
+
 
 
         stage('Docker Build') {
