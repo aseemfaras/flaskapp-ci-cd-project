@@ -38,5 +38,10 @@ pipeline {
                 sh 'docker run -d -p 5000:5000 $DOCKER_IMAGE'
             }
         }
+
+         stage('Deploy to Kubernetes') {
+            steps {
+                sh 'kubectl apply -f k8s/deployment.yaml'
+            }
     }
 }
